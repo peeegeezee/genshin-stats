@@ -1,14 +1,29 @@
 <h1>My Genshin Stats</h1>
 
-<h2>Daily Rewards</h2>
+<h2>General Info</h2>
 <table>
+  <tr>
+    <td>Nickname</td>
+    <td>Marie</td>
+  </tr>
+  <tr>
+    <td>Adventurer Rank</td>
+    <td>45</td>
+  </tr>
   <tr>
     <td>Total Rewards Claimed</td>
     <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>
+      <img
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        width="120px"
+      />
+      <br />
+      3 x Fine Enhancement Ore
+    </td>
   </tr>
 </table>
 
@@ -20,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>115</td>
+    <td>116</td>
   </tr>
   <tr>
     <td>Characters</td>
