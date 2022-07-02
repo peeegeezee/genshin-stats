@@ -62,7 +62,6 @@ async def main():
     
     #%% Redeem new codes
 
-    print("[Code redeem] ", end="")
     failed_codes = []
     for code in new_codes[:-1]:
         try:
