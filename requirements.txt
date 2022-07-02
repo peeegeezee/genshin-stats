@@ -1,2 +1,4 @@
 genshin
 Jinja2
+requests
+beautifulsoup4
