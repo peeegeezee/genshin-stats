@@ -1,14 +1,26 @@
 <h1>My Genshin Stats</h1>
 
-<h2>Daily Rewards</h2>
+<h2>General Info</h2>
 <table>
+    <tr>
+        <td>Nickname</td>
+        <td>{{ user.info.nickname }}</td>
+    </tr>
+    <tr>
+        <td>Adventurer Level</td>
+        <td>{{ user.info.level }}</td>
+    </tr>
     <tr>
         <td>Total Rewards Claimed</td>
         <td>{{ reward_info.claimed_rewards }}</td>
     </tr>
     <tr>
         <td>Last Claimed Reward</td>
-        <td>{{ reward.amount }} x {{ reward.name }}</td>
+        <td>
+            <img src="{{ reward.icon }}" width="120px">
+            <br>
+            {{ reward.amount }} x {{ reward.name }}
+        </td>
     </tr>
 </table>
 
