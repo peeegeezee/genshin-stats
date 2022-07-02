@@ -2,6 +2,7 @@ import argparse
 import asyncio
 import logging
 import os
+import io
 import pathlib
 import time
 
@@ -55,7 +56,7 @@ async def main():
 
     active_codes = [code.text.strip() for code in soup.find("div", {"class":"entry-content"}).find("ul").findAll("strong")]
 
-    codes_file = root / "codes.txt"
+    codes_file = pathlib.Path(__file__).parent.resolve() / "codes.txt"
     used_codes = codes_file.open().read().split("\n")
     new_codes = list(filter(lambda x: x not in used_codes and x != "", active_codes))
     
