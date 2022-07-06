@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Sweet Madame
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -284,26 +284,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      Diluc (10)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+      Sucrose (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Bennett (10)<br /><img
+      Xingqiu (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (10)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
+      Thoma (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Albedo (10)<br />
+      Hu Tao (11)<br />
     </td>
   </tr>
   <tr>
@@ -314,7 +314,7 @@
         ,
         height="18"
       />
-      Hu Tao (54)<br />
+      Hu Tao (61)<br />
     </td>
   </tr>
   <tr>
@@ -343,11 +343,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Diluc (42)<br />
+      Bennett (64)<br />
     </td>
   </tr>
   <tr>
@@ -358,7 +358,7 @@
         ,
         height="18"
       />
-      Bennett (95)<br />
+      Bennett (130)<br />
     </td>
   </tr>
 </table>
@@ -366,18 +366,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1487 (rate -82)</td>
+    <td>1563 (rate -81)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1381377 (rate -82)</td>
+    <td>1431025 (rate -81)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 500 (34%)<br />Mail: 330 (23%)<br />Daily Activity: 300
-      (20%)<br />Adventure: 243 (16%)<br />Events: 60 (4%)<br />Quests: 50
-      (3%)<br />Other: 4 (0%)<br />
+      Spiral Abyss: 500 (32%)<br />Daily Activity: 360 (24%)<br />Mail: 345
+      (23%)<br />Adventure: 243 (15%)<br />Events: 60 (3%)<br />Quests: 50
+      (3%)<br />Other: 5 (0%)<br />
     </td>
   </tr>
 </table>
@@ -793,7 +793,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>3 x Noblesse Oblige<br />1 x Emblem of Severed Fate<br /></td>
+          <td>
+            1 x Gladiator's Finale<br />2 x Noblesse Oblige<br />1 x Emblem of
+            Severed Fate<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1015,7 +1018,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Noblesse Oblige<br />1 x Thundering Fury<br /></td>
+          <td>4 x Thundering Fury<br />1 x Bloodstained Chivalry<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1383,7 +1386,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>1 x Viridescent Venerer<br /></td>
+          <td>4 x Viridescent Venerer<br />1 x Noblesse Oblige<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1529,7 +1532,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>2 x Gladiator's Finale<br /></td>
+          <td>2 x Noblesse Oblige<br />1 x Thundering Fury<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1602,7 +1605,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Emblem of Severed Fate<br />1 x Noblesse Oblige<br /></td>
+          <td>4 x Emblem of Severed Fate<br />1 x Gladiator's Finale<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
