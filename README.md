@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png"
         width="120px"
       />
       <br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>324</td>
+    <td>325</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -289,21 +289,21 @@
         height="18"
       />
       Sucrose (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (11)<br />
+      Hu Tao (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (11)<br />
     </td>
   </tr>
   <tr>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1563 (rate -81)</td>
+    <td>1658 (rate -80)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1431025 (rate -81)</td>
+    <td>1486275 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 500 (32%)<br />Daily Activity: 360 (24%)<br />Mail: 345
-      (23%)<br />Adventure: 243 (15%)<br />Events: 60 (3%)<br />Quests: 50
+      Spiral Abyss: 500 (31%)<br />Mail: 440 (27%)<br />Daily Activity: 360
+      (22%)<br />Adventure: 243 (14%)<br />Events: 60 (3%)<br />Quests: 50
       (3%)<br />Other: 5 (0%)<br />
     </td>
   </tr>
