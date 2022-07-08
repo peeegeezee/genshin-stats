@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>380</td>
+    <td>381</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>325</td>
+    <td>326</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -266,44 +266,44 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>62</td>
+    <td>241</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>11</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-1</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>30</td>
+    <td>34</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Sucrose (11)<br /><img
+      Xingqiu (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+      Hu Tao (18)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      Bennett (11)<br /><img
+      Sucrose (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (11)<br />
+      Thoma (18)<br />
     </td>
   </tr>
   <tr>
@@ -314,7 +314,7 @@
         ,
         height="18"
       />
-      Hu Tao (61)<br />
+      Hu Tao (96)<br />
     </td>
   </tr>
   <tr>
@@ -332,11 +332,11 @@
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Diluc (41652)<br />
+      Bennett (209436)<br />
     </td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@
         ,
         height="18"
       />
-      Bennett (64)<br />
+      Bennett (201)<br />
     </td>
   </tr>
   <tr>
@@ -358,7 +358,7 @@
         ,
         height="18"
       />
-      Bennett (130)<br />
+      Bennett (522)<br />
     </td>
   </tr>
 </table>
@@ -366,18 +366,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1658 (rate -80)</td>
+    <td>1788 (rate -78)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1486275 (rate -80)</td>
+    <td>1687775 (rate -78)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 500 (31%)<br />Mail: 440 (27%)<br />Daily Activity: 360
-      (22%)<br />Adventure: 243 (14%)<br />Events: 60 (3%)<br />Quests: 50
-      (3%)<br />Other: 5 (0%)<br />
+      Spiral Abyss: 550 (31%)<br />Mail: 440 (25%)<br />Daily Activity: 420
+      (24%)<br />Adventure: 263 (15%)<br />Events: 60 (3%)<br />Quests: 50
+      (2%)<br />Other: 5 (0%)<br />
     </td>
   </tr>
 </table>
@@ -471,7 +471,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_MillenniaTuna.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
         />
       </p>
     </td>
@@ -513,7 +513,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Luxurious Sea-Lord</td>
+          <td>Serpent Spine</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -521,11 +521,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -794,7 +794,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Gladiator's Finale<br />2 x Noblesse Oblige<br />1 x Emblem of
+            1 x Gladiator's Finale<br />2 x Thundering Fury<br />1 x Emblem of
             Severed Fate<br />
           </td>
         </tr>
@@ -1018,7 +1018,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Thundering Fury<br />1 x Bloodstained Chivalry<br /></td>
+          <td>4 x Noblesse Oblige<br />1 x Bloodstained Chivalry<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1502,7 +1502,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_MillenniaTuna.png"
         />
       </p>
     </td>
@@ -1532,7 +1532,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>2 x Noblesse Oblige<br />1 x Thundering Fury<br /></td>
+          <td>
+            2 x Thundering Fury<br />2 x Noblesse Oblige<br />1 x
+            Thundersoother<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1544,7 +1547,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Serpent Spine</td>
+          <td>Luxurious Sea-Lord</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1552,11 +1555,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1851,7 +1854,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
