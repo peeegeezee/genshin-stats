@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>381</td>
+    <td>383</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>327</td>
+    <td>329</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>178</td>
+    <td>180</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -59,15 +59,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>850</td>
+    <td>854</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>805</td>
+    <td>809</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>222</td>
+    <td>224</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -181,7 +181,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>45.0%</td>
+          <td>51.6%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -284,16 +284,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Bennett (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (18)<br /><img
+      Xingqiu (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
@@ -303,7 +298,12 @@
         ,
         height="18"
       />
-      Hu Tao (18)<br />
+      Hu Tao (18)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (18)<br />
     </td>
   </tr>
   <tr>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1908 (rate -76)</td>
+    <td>2136 (rate -74)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1861392 (rate -76)</td>
+    <td>2073974 (rate -73)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 550 (29%)<br />Daily Activity: 540 (29%)<br />Mail: 440
-      (24%)<br />Adventure: 263 (13%)<br />Events: 60 (3%)<br />Quests: 50
+      Daily Activity: 660 (31%)<br />Spiral Abyss: 550 (26%)<br />Mail: 440
+      (21%)<br />Adventure: 331 (16%)<br />Quests: 90 (4%)<br />Events: 60
       (2%)<br />Other: 5 (0%)<br />
     </td>
   </tr>
