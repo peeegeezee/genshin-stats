@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>329</td>
+    <td>330</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>224</td>
+    <td>225</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -181,7 +181,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>51.6%</td>
+          <td>51.9%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -284,26 +284,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
       Sucrose (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (18)<br />
+      Thoma (18)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (18)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (18)<br />
     </td>
   </tr>
   <tr>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2136 (rate -74)</td>
+    <td>2166 (rate -73)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2073974 (rate -73)</td>
+    <td>2085623 (rate -73)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 660 (31%)<br />Spiral Abyss: 550 (26%)<br />Mail: 440
-      (21%)<br />Adventure: 331 (16%)<br />Quests: 90 (4%)<br />Events: 60
+      Daily Activity: 660 (31%)<br />Spiral Abyss: 550 (26%)<br />Mail: 460
+      (22%)<br />Adventure: 341 (15%)<br />Quests: 90 (4%)<br />Events: 60
       (2%)<br />Other: 5 (0%)<br />
     </td>
   </tr>
