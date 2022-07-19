@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>336</td>
+    <td>337</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3186 (rate -61)</td>
+    <td>3266 (rate -60)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2809346 (rate -63)</td>
+    <td>2877855 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1120 (36%)<br />Daily Activity: 1020 (33%)<br />Spiral Abyss: 550
-      (18%)<br />Adventure: 341 (10%)<br />Quests: 90 (2%)<br />Events: 60
+      Mail: 1140 (35%)<br />Daily Activity: 1080 (34%)<br />Spiral Abyss: 550
+      (17%)<br />Adventure: 341 (11%)<br />Quests: 90 (2%)<br />Events: 60
       (1%)<br />Other: 5 (0%)<br />
     </td>
   </tr>
