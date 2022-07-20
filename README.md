@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fisherman's Toast
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>337</td>
+    <td>338</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,15 +59,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>854</td>
+    <td>860</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>809</td>
+    <td>820</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>225</td>
+    <td>226</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -251,7 +251,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>396</td>
+    <td>406</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -262,122 +262,65 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>49</td>
+    <td>50</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>241</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>18</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>11-2</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>34</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      Sucrose (18)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (96)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (191604)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (209436)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (201)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (522)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3266 (rate -60)</td>
+    <td>4271 (rate -48)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2877855 (rate -62)</td>
+    <td>4043535 (rate -47)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1140 (35%)<br />Daily Activity: 1080 (34%)<br />Spiral Abyss: 550
-      (17%)<br />Adventure: 341 (11%)<br />Quests: 90 (2%)<br />Events: 60
-      (1%)<br />Other: 5 (0%)<br />
+      Daily Activity: 1140 (27%)<br />Mail: 1140 (27%)<br />Spiral Abyss: 850
+      (20%)<br />Events: 580 (14%)<br />Adventure: 465 (10%)<br />Quests: 90
+      (2%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
 </table>
