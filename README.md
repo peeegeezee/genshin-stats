@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>341</td>
+    <td>342</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -284,21 +284,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Hu Tao (11)<br /><img
+      Thoma (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Bennett (11)<br /><img
+      Hu Tao (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5189 (rate -37)</td>
+    <td>5249 (rate -36)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4638126 (rate -40)</td>
+    <td>4719370 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1320 (26%)<br />Mail: 1240 (24%)<br />Spiral Abyss: 1000
-      (20%)<br />Events: 960 (18%)<br />Adventure: 573 (11%)<br />Quests: 90
+      Daily Activity: 1380 (27%)<br />Mail: 1240 (24%)<br />Spiral Abyss: 1000
+      (20%)<br />Events: 960 (18%)<br />Adventure: 573 (10%)<br />Quests: 90
       (1%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
