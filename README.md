@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Almond Tofu
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -266,44 +266,44 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>27</td>
+    <td>52</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>11</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>11-3</td>
+    <td>12-1</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>27</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Hu Tao (11)<br /><img
+      Thoma (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (11)<br />
+      Kaedehara Kazuha (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (11)<br />
     </td>
   </tr>
   <tr>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5371 (rate -35)</td>
+    <td>5521 (rate -33)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4854089 (rate -37)</td>
+    <td>4955620 (rate -36)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1500 (28%)<br />Mail: 1240 (24%)<br />Spiral Abyss: 1000
-      (19%)<br />Events: 960 (18%)<br />Adventure: 575 (10%)<br />Quests: 90
+      Daily Activity: 1560 (29%)<br />Mail: 1240 (23%)<br />Spiral Abyss: 1050
+      (19%)<br />Events: 1000 (18%)<br />Adventure: 575 (10%)<br />Quests: 90
       (1%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
@@ -471,7 +471,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_MillenniaTuna.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
         />
       </p>
     </td>
@@ -513,7 +513,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Luxurious Sea-Lord</td>
+          <td>Serpent Spine</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -521,11 +521,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -763,7 +763,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Resurrection.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
         />
       </p>
     </td>
@@ -793,10 +793,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            1 x Gladiator's Finale<br />1 x Thundering Fury<br />1 x Emblem of
-            Severed Fate<br />1 x Bloodstained Chivalry<br />
-          </td>
+          <td>4 x Noblesse Oblige<br />1 x Emblem of Severed Fate<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -808,7 +805,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Solar Pearl</td>
+          <td>The Widsith</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -820,7 +817,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -839,7 +836,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Proto.png"
         />
       </p>
     </td>
@@ -870,8 +867,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Crimson Witch of Flames<br />1 x Noblesse Oblige<br />1 x Emblem
-            of Severed Fate<br />1 x Viridescent Venerer<br />
+            2 x Crimson Witch of Flames<br />2 x Noblesse Oblige<br />1 x
+            Viridescent Venerer<br />
           </td>
         </tr>
         <tr>
@@ -884,7 +881,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Deathmatch</td>
+          <td>Prototype Starglitter</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -892,11 +889,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -988,7 +985,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
         />
       </p>
     </td>
@@ -1018,7 +1015,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>1 x Noblesse Oblige<br />4 x Thundering Fury<br /></td>
+          <td>4 x Noblesse Oblige<br />1 x Thundering Fury<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1030,7 +1027,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Lion's Roar</td>
+          <td>Festering Desire</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1038,11 +1035,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1164,7 +1161,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>3 x Viridescent Venerer<br />1 x Noblesse Oblige<br /></td>
+          <td>4 x Viridescent Venerer<br />1 x Noblesse Oblige<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1431,7 +1428,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Exotic.png"
         />
       </p>
     </td>
@@ -1461,7 +1458,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Noblesse Oblige<br /></td>
+          <td>3 x Viridescent Venerer<br />1 x Noblesse Oblige<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1473,15 +1470,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dull Blade</td>
+          <td>Iron Sting</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1577,7 +1574,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto.png"
         />
       </p>
     </td>
@@ -1608,8 +1605,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Thundering Fury<br />2 x Noblesse Oblige<br />1 x
-            Thundersoother<br />
+            2 x Thundering Fury<br />1 x Emblem of Severed Fate<br />1 x
+            Thundersoother<br />1 x Noblesse Oblige<br />
           </td>
         </tr>
         <tr>
@@ -1622,7 +1619,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Serpent Spine</td>
+          <td>Prototype Archaic</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1634,7 +1631,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -1726,7 +1723,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_MillenniaTuna.png"
         />
       </p>
     </td>
@@ -1771,7 +1768,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Prototype Archaic</td>
+          <td>Luxurious Sea-Lord</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1779,11 +1776,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -2167,7 +2164,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
         />
       </p>
     </td>
@@ -2209,19 +2206,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>The Widsith</td>
+          <td>Apprentice's Notes</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -2532,7 +2529,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Resurrection.png"
         />
       </p>
     </td>
@@ -2574,19 +2571,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Apprentice's Notes</td>
+          <td>Solar Pearl</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
