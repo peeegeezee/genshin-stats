@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>344</td>
+    <td>345</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -251,7 +251,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>406</td>
+    <td>416</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -266,44 +266,44 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>52</td>
+    <td>114</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>13</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-1</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>30</td>
+    <td>35</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Xingqiu (11)<br /><img
+      Hu Tao (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (11)<br /><img
+      Thoma (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (11)<br />
+      Kaedehara Kazuha (13)<br />
     </td>
   </tr>
   <tr>
@@ -314,29 +314,29 @@
         ,
         height="18"
       />
-      Hu Tao (51)<br />
+      Hu Tao (58)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
         ,
         height="18"
       />
-      Hu Tao (110589)<br />
+      Mona (126263)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Diluc (79395)<br />
+      Bennett (106900)<br />
     </td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@
         ,
         height="18"
       />
-      Bennett (84)<br />
+      Bennett (99)<br />
     </td>
   </tr>
   <tr>
@@ -358,7 +358,7 @@
         ,
         height="18"
       />
-      Bennett (177)<br />
+      Bennett (220)<br />
     </td>
   </tr>
 </table>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5521 (rate -33)</td>
+    <td>5708 (rate -31)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4955620 (rate -36)</td>
+    <td>5121914 (rate -34)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1560 (29%)<br />Mail: 1240 (23%)<br />Spiral Abyss: 1050
-      (19%)<br />Events: 1000 (18%)<br />Adventure: 575 (10%)<br />Quests: 90
+      Daily Activity: 1620 (29%)<br />Mail: 1240 (22%)<br />Spiral Abyss: 1100
+      (20%)<br />Events: 1030 (18%)<br />Adventure: 622 (10%)<br />Quests: 90
       (1%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
@@ -471,7 +471,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto.png"
         />
       </p>
     </td>
@@ -513,7 +513,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Serpent Spine</td>
+          <td>Prototype Archaic</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -525,7 +525,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -1574,7 +1574,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
         />
       </p>
     </td>
@@ -1619,7 +1619,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Prototype Archaic</td>
+          <td>Serpent Spine</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1631,7 +1631,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
