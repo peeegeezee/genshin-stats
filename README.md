@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>345</td>
+    <td>346</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>874</td>
+    <td>875</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>826</td>
+    <td>828</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>87</td>
+    <td>88</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -193,7 +193,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>64.0%</td>
+          <td>65.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -266,11 +266,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>114</td>
+    <td>120</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>25</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -284,26 +284,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (13)<br /><img
+      Thoma (25)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+      Xingqiu (25)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (13)<br />
+      Bennett (25)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (25)<br />
     </td>
   </tr>
   <tr>
@@ -314,18 +314,18 @@
         ,
         height="18"
       />
-      Hu Tao (58)<br />
+      Hu Tao (109)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Mona (126263)<br />
+      Hu Tao (157661)<br />
     </td>
   </tr>
   <tr>
@@ -336,7 +336,7 @@
         ,
         height="18"
       />
-      Bennett (106900)<br />
+      Bennett (383563)<br />
     </td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@
         ,
         height="18"
       />
-      Bennett (99)<br />
+      Bennett (260)<br />
     </td>
   </tr>
   <tr>
@@ -358,7 +358,7 @@
         ,
         height="18"
       />
-      Bennett (220)<br />
+      Bennett (879)<br />
     </td>
   </tr>
 </table>
@@ -366,18 +366,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5708 (rate -31)</td>
+    <td>6262 (rate -24)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5121914 (rate -34)</td>
+    <td>5583738 (rate -28)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1620 (29%)<br />Mail: 1240 (22%)<br />Spiral Abyss: 1100
-      (20%)<br />Events: 1030 (18%)<br />Adventure: 622 (10%)<br />Quests: 90
-      (1%)<br />Other: 6 (0%)<br />
+      Daily Activity: 1680 (27%)<br />Events: 1380 (23%)<br />Mail: 1240
+      (20%)<br />Spiral Abyss: 1100 (17%)<br />Adventure: 766 (12%)<br />Quests:
+      90 (1%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1015,7 +1015,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Noblesse Oblige<br />1 x Thundering Fury<br /></td>
+          <td>1 x Noblesse Oblige<br />4 x Thundering Fury<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1230,7 +1230,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1241,7 +1241,7 @@
         </tr>
         <tr>
           <td>Outfits</td>
-          <td></td>
+          <td>Ein Immernachtstraum</td>
         </tr>
       </table>
     </td>
@@ -1375,7 +1375,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
