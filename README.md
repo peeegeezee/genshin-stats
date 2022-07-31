@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6382 (rate -23)</td>
+    <td>6502 (rate -21)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5659877 (rate -27)</td>
+    <td>5743432 (rate -26)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1740 (28%)<br />Events: 1440 (23%)<br />Mail: 1240
-      (19%)<br />Spiral Abyss: 1100 (17%)<br />Adventure: 766 (12%)<br />Quests:
+      Daily Activity: 1800 (28%)<br />Events: 1500 (24%)<br />Mail: 1240
+      (20%)<br />Spiral Abyss: 1100 (16%)<br />Adventure: 766 (11%)<br />Quests:
       90 (1%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
@@ -1975,7 +1975,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td></td>
+          <td>5 x Wanderer's Troupe<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2547,7 +2547,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>40</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Friendship</td>
