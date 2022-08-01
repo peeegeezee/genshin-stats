@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>386</td>
+    <td>388</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>349</td>
+    <td>350</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,19 +55,19 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>130</td>
+    <td>133</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>882</td>
+    <td>889</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>840</td>
+    <td>842</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>230</td>
+    <td>231</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -157,11 +157,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>67.1%</td>
+          <td>71.0%</td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
       </table>
     </td>
@@ -169,11 +169,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>37.1%</td>
+          <td>41.5%</td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
       </table>
     </td>
@@ -193,7 +193,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>65.0%</td>
+          <td>67.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -247,7 +247,7 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Stately (12000)</td>
+    <td>Stately (12210)</td>
   </tr>
   <tr>
     <td>Items</td>
@@ -266,11 +266,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>120</td>
+    <td>173</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>27</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -284,26 +284,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (27)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (27)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
       Hu Tao (27)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (27)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (27)<br />
+      Thoma (27)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (27)<br />
     </td>
   </tr>
   <tr>
@@ -366,18 +366,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6502 (rate -21)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5743432 (rate -26)</td>
+    <td>7216 (rate -99)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1800 (28%)<br />Events: 1500 (24%)<br />Mail: 1240
-      (20%)<br />Spiral Abyss: 1100 (16%)<br />Adventure: 766 (11%)<br />Quests:
-      90 (1%)<br />Other: 6 (0%)<br />
+      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
