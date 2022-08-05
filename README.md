@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>388</td>
+    <td>391</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>353</td>
+    <td>354</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -284,37 +284,37 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (9)<br /><img
+      Hu Tao (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (9)<br />
+      Kaedehara Kazuha (13)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Beidou (34)<br />
+      Hu Tao (46)<br />
     </td>
   </tr>
   <tr>
@@ -336,7 +336,7 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (85513)<br />
+      Shikanoin Heizou (134798)<br />
     </td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@
         ,
         height="18"
       />
-      Bennett (49)<br />
+      Bennett (92)<br />
     </td>
   </tr>
   <tr>
@@ -358,7 +358,7 @@
         ,
         height="18"
       />
-      Bennett (82)<br />
+      Bennett (163)<br />
     </td>
   </tr>
 </table>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>900 (rate -86)</td>
+    <td>1170 (rate -82)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>960285 (rate -83)</td>
+    <td>1051536 (rate -82)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 550 (62%)<br />Daily Activity: 180 (20%)<br />Events: 140
-      (15%)<br />Adventure: 30 (3%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Spiral Abyss: 550 (48%)<br />Daily Activity: 240 (21%)<br />Events: 210
+      (18%)<br />Mail: 140 (11%)<br />Adventure: 30 (2%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
