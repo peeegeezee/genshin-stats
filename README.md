@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Sweet Madame
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -266,11 +266,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>47</td>
+    <td>55</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -284,26 +284,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
       Xiangling (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (13)<br />
+      Shikanoin Heizou (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (13)<br />
     </td>
   </tr>
   <tr>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1170 (rate -82)</td>
+    <td>1300 (rate -80)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1051536 (rate -82)</td>
+    <td>1168109 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 550 (48%)<br />Daily Activity: 240 (21%)<br />Events: 210
-      (18%)<br />Mail: 140 (11%)<br />Adventure: 30 (2%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 550 (43%)<br />Daily Activity: 300 (24%)<br />Events: 280
+      (21%)<br />Mail: 140 (10%)<br />Adventure: 30 (2%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -617,7 +617,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Proto.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Viridescent.png"
         />
       </p>
     </td>
@@ -647,7 +647,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Wanderer's Troupe<br />1 x Bloodstained Chivalry<br /></td>
+          <td>4 x Wanderer's Troupe<br />1 x Shimenawa's Reminiscence<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -659,7 +659,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Prototype Crescent</td>
+          <td>The Viridescent Hunt</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2024,7 +2024,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Viridescent.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Proto.png"
         />
       </p>
     </td>
@@ -2054,7 +2054,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Wanderer's Troupe<br />1 x Shimenawa's Reminiscence<br /></td>
+          <td>4 x Wanderer's Troupe<br />1 x Bloodstained Chivalry<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2066,7 +2066,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>The Viridescent Hunt</td>
+          <td>Prototype Crescent</td>
         </tr>
         <tr>
           <td>Rarity</td>
