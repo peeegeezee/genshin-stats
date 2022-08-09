@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -289,21 +289,21 @@
         height="18"
       />
       Shikanoin Heizou (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Hu Tao (17)<br /><img
+      Bennett (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
       Thoma (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xiangling (17)<br />
+      Xingqiu (17)<br />
     </td>
   </tr>
   <tr>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1617 (rate -75)</td>
+    <td>1747 (rate -73)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1381150 (rate -76)</td>
+    <td>1510053 (rate -74)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (38%)<br />Events: 420 (26%)<br />Daily Activity: 420
-      (26%)<br />Mail: 140 (8%)<br />Adventure: 37 (2%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (35%)<br />Events: 490 (28%)<br />Daily Activity: 480
+      (27%)<br />Mail: 140 (8%)<br />Adventure: 37 (2%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
