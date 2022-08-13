@@ -284,26 +284,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (29)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (29)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+      Thoma (31)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (29)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+      Xingqiu (31)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Xiangling (29)<br />
+      Shikanoin Heizou (31)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (31)<br />
     </td>
   </tr>
   <tr>
@@ -314,7 +314,7 @@
         ,
         height="18"
       />
-      Hu Tao (106)<br />
+      Hu Tao (114)<br />
     </td>
   </tr>
   <tr>
@@ -336,7 +336,7 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (299740)<br />
+      Shikanoin Heizou (338886)<br />
     </td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@
         ,
         height="18"
       />
-      Bennett (171)<br />
+      Bennett (184)<br />
     </td>
   </tr>
   <tr>
@@ -358,7 +358,7 @@
         ,
         height="18"
       />
-      Bennett (319)<br />
+      Bennett (337)<br />
     </td>
   </tr>
 </table>
@@ -763,7 +763,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Resurrection.png"
         />
       </p>
     </td>
@@ -805,7 +805,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>The Widsith</td>
+          <td>Solar Pearl</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -817,7 +817,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -1238,8 +1238,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Noblesse Oblige<br />3 x Gladiator's Finale<br />1 x Crimson
-            Witch of Flames<br />
+            1 x Noblesse Oblige<br />1 x Viridescent Venerer<br />2 x
+            Gladiator's Finale<br />1 x Crimson Witch of Flames<br />
           </td>
         </tr>
         <tr>
@@ -1431,7 +1431,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Resurrection.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
         />
       </p>
     </td>
@@ -1461,7 +1461,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Thundering Fury<br /></td>
+          <td>
+            2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x
+            Thundering Fury<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1473,7 +1476,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Solar Pearl</td>
+          <td>The Widsith</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1485,7 +1488,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
