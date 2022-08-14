@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png"
         width="120px"
       />
       <br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -266,11 +266,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>133</td>
+    <td>142</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>31</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -366,18 +366,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2304 (rate -65)</td>
+    <td>2917 (rate -56)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1971021 (rate -66)</td>
+    <td>2214891 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 720 (32%)<br />Events: 710 (31%)<br />Spiral Abyss: 600
-      (27%)<br />Mail: 160 (6%)<br />Adventure: 114 (4%)<br />Quests: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Daily Activity: 780 (27%)<br />Events: 770 (27%)<br />Spiral Abyss: 600
+      (21%)<br />Mail: 460 (15%)<br />Adventure: 307 (10%)<br />Quests: 0
+      (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -617,7 +617,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Viridescent.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Proto.png"
         />
       </p>
     </td>
@@ -647,7 +647,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Wanderer's Troupe<br />1 x Shimenawa's Reminiscence<br /></td>
+          <td>4 x Wanderer's Troupe<br />1 x Bloodstained Chivalry<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -659,7 +659,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>The Viridescent Hunt</td>
+          <td>Prototype Crescent</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2027,7 +2027,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Proto.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Viridescent.png"
         />
       </p>
     </td>
@@ -2057,7 +2057,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Wanderer's Troupe<br />1 x Bloodstained Chivalry<br /></td>
+          <td>4 x Wanderer's Troupe<br />1 x Shimenawa's Reminiscence<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2069,7 +2069,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Prototype Crescent</td>
+          <td>The Viridescent Hunt</td>
         </tr>
         <tr>
           <td>Rarity</td>
