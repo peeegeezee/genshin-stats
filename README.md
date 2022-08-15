@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>396</td>
+    <td>398</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>362</td>
+    <td>364</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,23 +55,23 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>135</td>
+    <td>136</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>891</td>
+    <td>901</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>845</td>
+    <td>849</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>232</td>
+    <td>233</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>91</td>
+    <td>93</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>31</td>
+    <td>32</td>
   </tr>
 </table>
 
@@ -243,15 +243,15 @@
 <table>
   <tr>
     <td>Level</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Stately (12210)</td>
+    <td>Stately (12510)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>429</td>
+    <td>442</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -288,22 +288,22 @@
         ,
         height="18"
       />
-      Thoma (31)<br /><img
+      Thoma (36)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (36)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (36)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (31)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (31)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (31)<br />
+      Xingqiu (36)<br />
     </td>
   </tr>
   <tr>
@@ -314,7 +314,7 @@
         ,
         height="18"
       />
-      Hu Tao (114)<br />
+      Hu Tao (140)<br />
     </td>
   </tr>
   <tr>
@@ -336,7 +336,7 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (338886)<br />
+      Shikanoin Heizou (347858)<br />
     </td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@
         ,
         height="18"
       />
-      Bennett (184)<br />
+      Bennett (200)<br />
     </td>
   </tr>
   <tr>
@@ -358,7 +358,7 @@
         ,
         height="18"
       />
-      Bennett (337)<br />
+      Bennett (376)<br />
     </td>
   </tr>
 </table>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2917 (rate -56)</td>
+    <td>3037 (rate -54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2214891 (rate -62)</td>
+    <td>2294382 (rate -61)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 780 (27%)<br />Events: 770 (27%)<br />Spiral Abyss: 600
-      (21%)<br />Mail: 460 (15%)<br />Adventure: 307 (10%)<br />Quests: 0
+      Daily Activity: 840 (28%)<br />Events: 830 (28%)<br />Spiral Abyss: 600
+      (19%)<br />Mail: 460 (15%)<br />Adventure: 307 (10%)<br />Quests: 0
       (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -1378,7 +1378,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
         <tr>
           <td>Constellation</td>
