@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>364</td>
+    <td>365</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>901</td>
+    <td>902</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -284,26 +284,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (36)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (36)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (36)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (36)<br />
+      Xingqiu (36)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (36)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (36)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (36)<br />
     </td>
   </tr>
   <tr>
@@ -366,18 +366,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3037 (rate -54)</td>
+    <td>3157 (rate -52)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2294382 (rate -61)</td>
+    <td>2411630 (rate -59)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 840 (28%)<br />Events: 830 (28%)<br />Spiral Abyss: 600
-      (19%)<br />Mail: 460 (15%)<br />Adventure: 307 (10%)<br />Quests: 0
-      (0%)<br />Other: 0 (0%)<br />
+      Daily Activity: 900 (29%)<br />Events: 890 (29%)<br />Spiral Abyss: 600
+      (19%)<br />Mail: 460 (14%)<br />Adventure: 307 (9%)<br />Quests: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1453,7 +1453,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
