@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>399</td>
+    <td>401</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>366</td>
+    <td>367</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,15 +55,15 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>136</td>
+    <td>138</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>903</td>
+    <td>912</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>849</td>
+    <td>852</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>93</td>
+    <td>94</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -193,7 +193,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>67.0%</td>
+          <td>68.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -251,7 +251,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>442</td>
+    <td>443</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -266,11 +266,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>45</td>
+    <td>53</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -284,26 +284,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      Sucrose (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (13)<br />
+      Sucrose (14)<br />
     </td>
   </tr>
   <tr>
@@ -314,7 +314,7 @@
         ,
         height="18"
       />
-      Hu Tao (53)<br />
+      Hu Tao (56)<br />
     </td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@
         ,
         height="18"
       />
-      Bennett (60)<br />
+      Bennett (68)<br />
     </td>
   </tr>
   <tr>
@@ -358,7 +358,7 @@
         ,
         height="18"
       />
-      Bennett (151)<br />
+      Bennett (157)<br />
     </td>
   </tr>
 </table>
@@ -366,18 +366,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4118 (rate -38)</td>
+    <td>4310 (rate -35)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3328045 (rate -44)</td>
+    <td>3445858 (rate -42)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (30%)<br />Events: 1040 (26%)<br />Daily Activity: 1020
-      (25%)<br />Mail: 490 (11%)<br />Adventure: 368 (8%)<br />Quests: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Spiral Abyss: 1200 (28%)<br />Daily Activity: 1080 (26%)<br />Events: 1070
+      (25%)<br />Mail: 510 (11%)<br />Adventure: 450 (10%)<br />Quests: 0
+      (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
