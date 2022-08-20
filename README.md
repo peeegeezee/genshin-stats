@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fisherman's Toast
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>401</td>
+    <td>402</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>367</td>
+    <td>369</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,23 +55,23 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>138</td>
+    <td>139</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>912</td>
+    <td>927</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>852</td>
+    <td>854</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>233</td>
+    <td>236</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>94</td>
+    <td>95</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -157,7 +157,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>71.0%</td>
+          <td>71.9%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -169,7 +169,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>41.5%</td>
+          <td>42.4%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -217,7 +217,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>87.0%</td>
+          <td>87.1%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
@@ -266,11 +266,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>53</td>
+    <td>56</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -284,26 +284,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (14)<br /><img
+      Shikanoin Heizou (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      Sucrose (14)<br />
+      Sucrose (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (15)<br />
     </td>
   </tr>
   <tr>
@@ -314,7 +314,7 @@
         ,
         height="18"
       />
-      Hu Tao (56)<br />
+      Hu Tao (60)<br />
     </td>
   </tr>
   <tr>
@@ -336,7 +336,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (92645)<br />
+      Kaedehara Kazuha (103994)<br />
     </td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@
         ,
         height="18"
       />
-      Bennett (68)<br />
+      Bennett (73)<br />
     </td>
   </tr>
   <tr>
@@ -358,7 +358,7 @@
         ,
         height="18"
       />
-      Bennett (157)<br />
+      Bennett (167)<br />
     </td>
   </tr>
 </table>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4310 (rate -35)</td>
+    <td>4440 (rate -33)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3445858 (rate -42)</td>
+    <td>3570497 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (28%)<br />Daily Activity: 1080 (26%)<br />Events: 1070
-      (25%)<br />Mail: 510 (11%)<br />Adventure: 450 (10%)<br />Quests: 0
+      Spiral Abyss: 1200 (28%)<br />Daily Activity: 1140 (25%)<br />Events: 1070
+      (24%)<br />Mail: 540 (12%)<br />Adventure: 490 (11%)<br />Quests: 0
       (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
