@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>402</td>
+    <td>407</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>369</td>
+    <td>370</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,19 +55,19 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>139</td>
+    <td>141</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>927</td>
+    <td>947</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>854</td>
+    <td>870</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>236</td>
+    <td>245</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -169,7 +169,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>42.4%</td>
+          <td>50.4%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -193,7 +193,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>68.0%</td>
+          <td>70.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -217,7 +217,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>87.1%</td>
+          <td>87.3%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -251,7 +251,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>443</td>
+    <td>445</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -284,6 +284,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -293,17 +303,7 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      Sucrose (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (16)<br />
+      Shikanoin Heizou (16)<br />
     </td>
   </tr>
   <tr>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5179 (rate -22)</td>
+    <td>5309 (rate -20)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4316982 (rate -27)</td>
+    <td>4494328 (rate -24)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1360 (27%)<br />Daily Activity: 1200 (23%)<br />Spiral Abyss: 1200
-      (23%)<br />Adventure: 739 (14%)<br />Mail: 570 (11%)<br />Quests: 110
+      Events: 1360 (26%)<br />Daily Activity: 1260 (24%)<br />Spiral Abyss: 1200
+      (23%)<br />Adventure: 809 (15%)<br />Mail: 570 (10%)<br />Quests: 110
       (2%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -740,7 +740,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1194,6 +1194,81 @@
     </td>
   </tr>
 </table>
+<h3>Kaedehara Kazuha</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>8</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            4 x Viridescent Venerer<br />1 x Shimenawa's Reminiscence<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Favonius Sword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>3</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Fischl</h3>
 <table>
   <tr>
@@ -1338,81 +1413,6 @@
         <tr>
           <td>Refinement</td>
           <td>4</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Kaedehara Kazuha</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>7</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            4 x Viridescent Venerer<br />1 x Shimenawa's Reminiscence<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Favonius Sword</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>3</td>
         </tr>
       </table>
     </td>
@@ -1941,6 +1941,79 @@
     </td>
   </tr>
 </table>
+<h3>Amber</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arjuna.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>60</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>2 x Traveling Doctor<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td>100% Outrider</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Sharpshooter's Oath</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Xinyan</h3>
 <table>
   <tr>
@@ -2220,79 +2293,6 @@
         <tr>
           <td>Rarity</td>
           <td>1</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Amber</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arjuna.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Pyro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>50</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>2 x Traveling Doctor<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td>100% Outrider</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Sharpshooter's Oath</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>3</td>
         </tr>
         <tr>
           <td>Level</td>
