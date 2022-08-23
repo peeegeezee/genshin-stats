@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>407</td>
+    <td>409</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>370</td>
+    <td>372</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,15 +55,15 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>141</td>
+    <td>144</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>947</td>
+    <td>957</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>870</td>
+    <td>877</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -181,7 +181,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>51.9%</td>
+          <td>53.5%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -193,7 +193,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>70.0%</td>
+          <td>72.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -217,7 +217,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>87.3%</td>
+          <td>87.4%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -284,26 +284,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      Thoma (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+      Sucrose (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Xiangling (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+      Hu Tao (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Xingqiu (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+      Kaedehara Kazuha (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (16)<br />
+      Bennett (16)<br />
     </td>
   </tr>
   <tr>
@@ -366,17 +366,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5309 (rate -20)</td>
+    <td>5401 (rate -19)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4494328 (rate -24)</td>
+    <td>4558954 (rate -23)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1360 (26%)<br />Daily Activity: 1260 (24%)<br />Spiral Abyss: 1200
-      (23%)<br />Adventure: 809 (15%)<br />Mail: 570 (10%)<br />Quests: 110
+      Events: 1360 (26%)<br />Daily Activity: 1320 (24%)<br />Spiral Abyss: 1200
+      (22%)<br />Adventure: 811 (15%)<br />Mail: 600 (11%)<br />Quests: 110
       (2%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
