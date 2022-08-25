@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>412</td>
+    <td>414</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>373</td>
+    <td>374</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>193</td>
+    <td>198</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>967</td>
+    <td>971</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>880</td>
+    <td>888</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -75,11 +75,11 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>13</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>32</td>
+    <td>34</td>
   </tr>
 </table>
 
@@ -287,7 +287,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>56</td>
+    <td>58</td>
   </tr>
   <tr>
     <td>Total Wins</td>
@@ -305,16 +305,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      Sucrose (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
@@ -324,7 +314,17 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (16)<br />
+      Kaedehara Kazuha (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (16)<br />
     </td>
   </tr>
   <tr>
@@ -387,18 +387,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6317 (rate -5)</td>
+    <td>6493 (rate -2)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4740510 (rate -20)</td>
+    <td>4804357 (rate -19)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1440 (23%)<br />Events: 1380 (22%)<br />Mail: 1240
-      (20%)<br />Spiral Abyss: 1200 (19%)<br />Adventure: 936 (15%)<br />Quests:
-      110 (1%)<br />Other: 11 (0%)<br />
+      Daily Activity: 1440 (23%)<br />Events: 1380 (22%)<br />Mail: 1300
+      (20%)<br />Spiral Abyss: 1200 (18%)<br />Adventure: 1044 (16%)<br />Quests:
+      110 (1%)<br />Other: 19 (0%)<br />
     </td>
   </tr>
 </table>
