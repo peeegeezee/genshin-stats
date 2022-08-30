@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -291,7 +291,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>63</td>
+    <td>66</td>
   </tr>
   <tr>
     <td>Total Wins</td>
@@ -309,11 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
@@ -328,7 +323,12 @@
         ,
         height="18"
       />
-      Hu Tao (16)<br />
+      Hu Tao (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (16)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7318 (rate 9)</td>
+    <td>7378 (rate 10)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5822906 (rate -2)</td>
+    <td>5899075 (rate 0)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1680 (23%)<br />Events: 1560 (22%)<br />Mail: 1310
-      (18%)<br />Spiral Abyss: 1200 (17%)<br />Adventure: 1167 (16%)<br />Quests:
+      Daily Activity: 1740 (24%)<br />Events: 1560 (22%)<br />Mail: 1310
+      (18%)<br />Spiral Abyss: 1200 (17%)<br />Adventure: 1167 (15%)<br />Quests:
       260 (3%)<br />Other: 141 (1%)<br />
     </td>
   </tr>
@@ -1083,7 +1083,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
         />
       </p>
     </td>
@@ -1125,19 +1125,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Sacrificial Bow</td>
+          <td>Hunter's Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -1627,7 +1627,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1838,7 +1838,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Geo</td>
+          <td>Dendro</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -1850,7 +1850,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>6</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1879,6 +1879,79 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Qiqi</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Instructor<br />1 x Wanderer's Troupe<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Lion's Roar</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1951,79 +2024,6 @@
         <tr>
           <td>Level</td>
           <td>50</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Qiqi</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Instructor<br />1 x Wanderer's Troupe<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Lion's Roar</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2779,7 +2779,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
         />
       </p>
     </td>
@@ -2821,19 +2821,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Hunter's Bow</td>
+          <td>Sacrificial Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
