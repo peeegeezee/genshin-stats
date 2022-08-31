@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>378</td>
+    <td>379</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,6 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
@@ -323,12 +328,7 @@
         ,
         height="18"
       />
-      Hu Tao (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (16)<br />
+      Hu Tao (16)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7378 (rate 10)</td>
+    <td>8230 (rate 23)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5899075 (rate 0)</td>
+    <td>6759811 (rate 13)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1740 (24%)<br />Events: 1560 (22%)<br />Mail: 1310
-      (18%)<br />Spiral Abyss: 1200 (17%)<br />Adventure: 1167 (15%)<br />Quests:
-      260 (3%)<br />Other: 141 (1%)<br />
+      Events: 1980 (25%)<br />Daily Activity: 1800 (22%)<br />Adventure: 1338
+      (17%)<br />Mail: 1330 (16%)<br />Spiral Abyss: 1200 (14%)<br />Other: 322
+      (3%)<br />Quests: 260 (3%)<br />
     </td>
   </tr>
 </table>
