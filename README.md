@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (6)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
         ,
         height="18"
       />
-      Tighnari (6)<br /><img
+      Tighnari (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
         ,
         height="18"
       />
-      Beidou (6)<br /><img
+      Beidou (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (6)<br />
+      Xingqiu (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      Sucrose (9)<br />
     </td>
   </tr>
   <tr>
@@ -339,7 +339,7 @@
         ,
         height="18"
       />
-      Tighnari (19)<br />
+      Tighnari (34)<br />
     </td>
   </tr>
   <tr>
@@ -361,7 +361,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (14200)<br />
+      Kaedehara Kazuha (28557)<br />
     </td>
   </tr>
   <tr>
@@ -372,7 +372,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (22)<br />
+      Kaedehara Kazuha (37)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
         ,
         height="18"
       />
-      Sucrose (25)<br />
+      Sucrose (37)<br />
     </td>
   </tr>
 </table>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>510 (rate -93)</td>
+    <td>587 (rate -92)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>442648 (rate -93)</td>
+    <td>510169 (rate -92)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 450 (89%)<br />Daily Activity: 60 (11%)<br />Events: 0
-      (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Spiral Abyss: 450 (77%)<br />Daily Activity: 120 (21%)<br />Adventure: 17
+      (2%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -1516,6 +1516,82 @@
     </td>
   </tr>
 </table>
+<h3>Beidou</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Electro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Emblem of Severed Fate<br />2 x Thundering Fury<br />1 x
+            Thundersoother<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Serpent Spine</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Tighnari</h3>
 <table>
   <tr>
@@ -1580,82 +1656,6 @@
         <tr>
           <td>Level</td>
           <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Beidou</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Electro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Emblem of Severed Fate<br />2 x Thundering Fury<br />1 x
-            Thundersoother<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Serpent Spine</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
