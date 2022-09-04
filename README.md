@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>382</td>
+    <td>383</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>213</td>
+    <td>214</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>982</td>
+    <td>983</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -309,6 +309,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        ,
+        height="18"
+      />
+      Fischl (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
         ,
         height="18"
@@ -318,17 +328,7 @@
         ,
         height="18"
       />
-      Beidou (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      Sucrose (9)<br />
+      Beidou (9)<br />
     </td>
   </tr>
   <tr>
@@ -391,16 +391,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>587 (rate -92)</td>
+    <td>647 (rate -92)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>510169 (rate -92)</td>
+    <td>574665 (rate -91)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 450 (77%)<br />Daily Activity: 120 (21%)<br />Adventure: 17
+      Spiral Abyss: 450 (70%)<br />Daily Activity: 180 (28%)<br />Adventure: 17
       (2%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
