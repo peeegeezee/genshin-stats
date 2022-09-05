@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>383</td>
+    <td>385</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>214</td>
+    <td>215</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>22</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>983</td>
+    <td>985</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>95</td>
+    <td>96</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>7.0%</td>
+          <td>8.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -291,44 +291,44 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>20</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>11-3</td>
+    <td>12-1</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>27</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
-        ,
-        height="18"
-      />
-      Fischl (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-        ,
-        height="18"
-      />
-      Tighnari (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
         ,
         height="18"
       />
-      Beidou (9)<br />
+      Beidou (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      Sucrose (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (9)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>647 (rate -92)</td>
+    <td>1156 (rate -86)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>574665 (rate -91)</td>
+    <td>922578 (rate -86)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 450 (70%)<br />Daily Activity: 180 (28%)<br />Adventure: 17
-      (2%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Spiral Abyss: 450 (39%)<br />Daily Activity: 240 (21%)<br />Other: 240
+      (21%)<br />Adventure: 206 (18%)<br />Mail: 20 (1%)<br />Events: 0 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
