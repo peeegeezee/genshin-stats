@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>428</td>
+    <td>429</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>386</td>
+    <td>387</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>489</td>
+    <td>499</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,44 +313,44 @@
         ,
         height="18"
       />
-      Thoma (10)<br /><img
+      Thoma (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      Sucrose (10)<br /><img
+      Sucrose (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (10)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (10)<br />
+      Hu Tao (15)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Tighnari (34)<br />
+      Hu Tao (37)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Hu Tao (69340)<br />
+      Shikanoin Heizou (95357)<br />
     </td>
   </tr>
   <tr>
@@ -361,7 +361,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (28557)<br />
+      Kaedehara Kazuha (93847)<br />
     </td>
   </tr>
   <tr>
@@ -372,18 +372,18 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (45)<br />
+      Kaedehara Kazuha (84)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Sucrose (44)<br />
+      Bennett (114)<br />
     </td>
   </tr>
 </table>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1491 (rate -82)</td>
+    <td>1581 (rate -80)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1460261 (rate -78)</td>
+    <td>1534431 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 550 (37%)<br />Daily Activity: 360 (25%)<br />Adventure: 290
-      (19%)<br />Other: 241 (16%)<br />Quests: 30 (2%)<br />Mail: 20 (1%)<br />Events:
+      Spiral Abyss: 550 (35%)<br />Daily Activity: 420 (27%)<br />Adventure: 320
+      (21%)<br />Other: 241 (15%)<br />Quests: 30 (1%)<br />Mail: 20 (1%)<br />Events:
       0 (0%)<br />
     </td>
   </tr>
@@ -1559,7 +1559,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Wanderer's Troupe<br />1 x Shimenawa's Reminiscence<br /></td>
+          <td>4 x Wanderer's Troupe<br />1 x Deepwood Memories<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
