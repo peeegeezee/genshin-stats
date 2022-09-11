@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>430</td>
+    <td>437</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -309,37 +309,37 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Sucrose (15)<br />
+      Thoma (15)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Tighnari (37)<br />
+      Hu Tao (37)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1891 (rate -77)</td>
+    <td>2065 (rate -75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1803303 (rate -73)</td>
+    <td>1967062 (rate -71)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 550 (30%)<br />Daily Activity: 540 (29%)<br />Adventure: 390
-      (21%)<br />Other: 241 (12%)<br />Events: 120 (6%)<br />Quests: 30 (1%)<br />Mail:
-      20 (1%)<br />
+      Daily Activity: 600 (30%)<br />Spiral Abyss: 550 (27%)<br />Adventure: 394
+      (20%)<br />Other: 241 (12%)<br />Events: 180 (8%)<br />Quests: 80 (3%)<br />Mail:
+      20 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1113,10 +1113,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            2 x Emblem of Severed Fate<br />2 x Thundering Fury<br />1 x Crimson
-            Witch of Flames<br />
-          </td>
+          <td>4 x Deepwood Memories<br />1 x Crimson Witch of Flames<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1483,7 +1480,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Deepwood Memories<br />1 x Thundersoother<br /></td>
+          <td>
+            2 x Emblem of Severed Fate<br />2 x Thundering Fury<br />1 x
+            Thundersoother<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
