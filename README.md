@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>396</td>
+    <td>397</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2840 (rate -65)</td>
+    <td>3200 (rate -61)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2776859 (rate -59)</td>
+    <td>2909901 (rate -57)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 900 (32%)<br />Spiral Abyss: 550 (20%)<br />Events: 540
-      (20%)<br />Adventure: 438 (15%)<br />Other: 242 (8%)<br />Quests: 130
-      (4%)<br />Mail: 40 (1%)<br />
+      Daily Activity: 960 (31%)<br />Spiral Abyss: 550 (18%)<br />Events: 540
+      (17%)<br />Adventure: 438 (13%)<br />Mail: 340 (10%)<br />Other: 242
+      (7%)<br />Quests: 130 (4%)<br />
     </td>
   </tr>
 </table>
