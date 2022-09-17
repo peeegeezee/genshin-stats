@@ -395,7 +395,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2909901 (rate -57)</td>
+    <td>2910211 (rate -57)</td>
   </tr>
   <tr>
     <td>Categories</td>
