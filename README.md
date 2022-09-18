@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>397</td>
+    <td>398</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -287,122 +287,65 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>53</td>
+    <td>54</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>47</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>11-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>35</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (15)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (37)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (95357)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (93847)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (84)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (114)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3200 (rate -61)</td>
+    <td>3800 (rate -54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2910211 (rate -57)</td>
+    <td>3437534 (rate -49)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 960 (31%)<br />Spiral Abyss: 550 (18%)<br />Events: 540
-      (17%)<br />Adventure: 438 (13%)<br />Mail: 340 (10%)<br />Other: 242
-      (7%)<br />Quests: 130 (4%)<br />
+      Daily Activity: 1020 (27%)<br />Spiral Abyss: 1000 (27%)<br />Events: 630
+      (17%)<br />Adventure: 438 (12%)<br />Mail: 340 (8%)<br />Other: 242
+      (6%)<br />Quests: 130 (3%)<br />
     </td>
   </tr>
 </table>
