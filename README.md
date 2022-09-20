@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fisherman's Toast
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>399</td>
+    <td>400</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -314,16 +314,16 @@
         height="18"
       />
       Fischl (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-        ,
-        height="18"
-      />
-      Tighnari (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
       Venti (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        ,
+        height="18"
+      />
+      Tighnari (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3950 (rate -52)</td>
+    <td>4150 (rate -49)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3629803 (rate -46)</td>
+    <td>3783721 (rate -44)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1080 (28%)<br />Spiral Abyss: 1050 (27%)<br />Events: 630
-      (16%)<br />Adventure: 458 (11%)<br />Mail: 360 (9%)<br />Other: 242
-      (6%)<br />Quests: 130 (3%)<br />
+      Daily Activity: 1140 (28%)<br />Spiral Abyss: 1050 (26%)<br />Events: 720
+      (18%)<br />Adventure: 458 (11%)<br />Mail: 360 (8%)<br />Other: 242
+      (5%)<br />Quests: 180 (4%)<br />
     </td>
   </tr>
 </table>
