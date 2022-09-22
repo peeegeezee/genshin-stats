@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>400</td>
+    <td>402</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>218</td>
+    <td>219</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>995</td>
+    <td>996</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>896</td>
+    <td>898</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>246</td>
+    <td>248</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>510</td>
+    <td>525</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,6 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        ,
+        height="18"
+      />
+      Tighnari (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
@@ -319,11 +324,6 @@
         height="18"
       />
       Fischl (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-        ,
-        height="18"
-      />
-      Tighnari (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4402 (rate -46)</td>
+    <td>4592 (rate -44)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3938767 (rate -42)</td>
+    <td>4090621 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1200 (28%)<br />Spiral Abyss: 1050 (24%)<br />Events: 880
-      (20%)<br />Adventure: 490 (11%)<br />Mail: 360 (8%)<br />Other: 242
-      (5%)<br />Quests: 180 (4%)<br />
+      Daily Activity: 1260 (28%)<br />Spiral Abyss: 1050 (23%)<br />Events: 1000
+      (22%)<br />Adventure: 500 (11%)<br />Mail: 360 (8%)<br />Other: 242
+      (5%)<br />Quests: 180 (3%)<br />
     </td>
   </tr>
 </table>
