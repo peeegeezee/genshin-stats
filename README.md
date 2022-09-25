@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -314,16 +314,16 @@
         height="18"
       />
       Tighnari (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
-        ,
-        height="18"
-      />
-      Fischl (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
       Venti (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        ,
+        height="18"
+      />
+      Fischl (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4712 (rate -43)</td>
+    <td>4777 (rate -42)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4245316 (rate -37)</td>
+    <td>4339389 (rate -36)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1380 (30%)<br />Spiral Abyss: 1050 (23%)<br />Events: 1000
-      (22%)<br />Adventure: 500 (10%)<br />Mail: 360 (7%)<br />Other: 242
+      Daily Activity: 1440 (31%)<br />Spiral Abyss: 1050 (22%)<br />Events: 1000
+      (21%)<br />Adventure: 505 (11%)<br />Mail: 360 (7%)<br />Other: 242
       (5%)<br />Quests: 180 (3%)<br />
     </td>
   </tr>
@@ -421,7 +421,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
         />
       </p>
     </td>
@@ -465,11 +465,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Deathmatch</td>
+          <td>Primordial Jade Winged-Spear</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -477,7 +477,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -496,7 +496,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
         />
       </p>
     </td>
@@ -538,19 +538,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Festering Desire</td>
+          <td>Dull Blade</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>90</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -1082,7 +1082,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
         />
       </p>
     </td>
@@ -1127,11 +1127,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Primordial Jade Winged-Spear</td>
+          <td>Deathmatch</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -1139,7 +1139,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -1824,7 +1824,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
         />
       </p>
     </td>
@@ -1866,19 +1866,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dull Blade</td>
+          <td>Festering Desire</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
