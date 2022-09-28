@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -291,11 +291,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>47</td>
+    <td>55</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>13</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -309,11 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
-        ,
-        height="18"
-      />
-      Fischl (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
         ,
         height="18"
@@ -324,6 +319,11 @@
         height="18"
       />
       Venti (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        ,
+        height="18"
+      />
+      Fischl (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4899 (rate -40)</td>
+    <td>5016 (rate -39)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4445198 (rate -34)</td>
+    <td>4551414 (rate -33)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1560 (32%)<br />Spiral Abyss: 1050 (22%)<br />Events: 1000
-      (21%)<br />Adventure: 507 (11%)<br />Mail: 360 (7%)<br />Other: 242
+      Daily Activity: 1620 (33%)<br />Spiral Abyss: 1100 (22%)<br />Events: 1000
+      (20%)<br />Adventure: 514 (11%)<br />Mail: 360 (7%)<br />Other: 242
       (4%)<br />Quests: 180 (3%)<br />
     </td>
   </tr>
@@ -1472,7 +1472,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
         <tr>
           <td>Constellation</td>
