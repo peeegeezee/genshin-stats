@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>441</td>
+    <td>442</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>407</td>
+    <td>409</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>219</td>
+    <td>220</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>997</td>
+    <td>998</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-        ,
-        height="18"
-      />
-      Tighnari (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
-      Venti (13)<br /><img
+      Venti (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        ,
+        height="18"
+      />
+      Tighnari (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
         ,
         height="18"
       />
-      Fischl (13)<br /><img
+      Fischl (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Kaedehara Kazuha (14)<br />
     </td>
   </tr>
   <tr>
@@ -339,7 +339,7 @@
         ,
         height="18"
       />
-      Tighnari (34)<br />
+      Tighnari (36)<br />
     </td>
   </tr>
   <tr>
@@ -350,18 +350,18 @@
         ,
         height="18"
       />
-      Hu Tao (81866)<br />
+      Hu Tao (85784)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
         ,
         height="18"
       />
-      Fischl (29605)<br />
+      Tighnari (39515)<br />
     </td>
   </tr>
   <tr>
@@ -372,7 +372,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (49)<br />
+      Kaedehara Kazuha (60)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
         ,
         height="18"
       />
-      Venti (65)<br />
+      Venti (80)<br />
     </td>
   </tr>
 </table>
@@ -395,7 +395,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4551414 (rate -33)</td>
+    <td>4577784 (rate -32)</td>
   </tr>
   <tr>
     <td>Categories</td>
