@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -309,16 +309,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
-        ,
-        height="18"
-      />
-      Venti (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
         ,
         height="18"
       />
       Tighnari (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        ,
+        height="18"
+      />
+      Venti (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
         ,
         height="18"
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5016 (rate -39)</td>
+    <td>6121 (rate -26)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4577784 (rate -32)</td>
+    <td>4645299 (rate -31)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1620 (33%)<br />Spiral Abyss: 1100 (22%)<br />Events: 1000
-      (20%)<br />Adventure: 514 (11%)<br />Mail: 360 (7%)<br />Other: 242
-      (4%)<br />Quests: 180 (3%)<br />
+      Daily Activity: 1680 (28%)<br />Mail: 1360 (23%)<br />Spiral Abyss: 1100
+      (18%)<br />Events: 1040 (17%)<br />Adventure: 519 (9%)<br />Other: 242
+      (3%)<br />Quests: 180 (2%)<br />
     </td>
   </tr>
 </table>
@@ -2805,7 +2805,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
