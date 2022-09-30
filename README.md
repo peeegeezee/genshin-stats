@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      10000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>409</td>
+    <td>410</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>525</td>
+    <td>535</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,16 +309,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-        ,
-        height="18"
-      />
-      Tighnari (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
       Venti (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        ,
+        height="18"
+      />
+      Tighnari (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
         ,
         height="18"
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6121 (rate -26)</td>
+    <td>7071 (rate -14)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4645299 (rate -31)</td>
+    <td>5078967 (rate -25)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1680 (28%)<br />Mail: 1360 (23%)<br />Spiral Abyss: 1100
-      (18%)<br />Events: 1040 (17%)<br />Adventure: 519 (9%)<br />Other: 242
-      (3%)<br />Quests: 180 (2%)<br />
+      Mail: 2060 (30%)<br />Daily Activity: 1740 (25%)<br />Events: 1230
+      (18%)<br />Spiral Abyss: 1100 (15%)<br />Adventure: 519 (7%)<br />Other:
+      242 (3%)<br />Quests: 180 (2%)<br />
     </td>
   </tr>
 </table>
