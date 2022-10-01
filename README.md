@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      10000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>442</td>
+    <td>443</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>410</td>
+    <td>411</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>248</td>
+    <td>249</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -309,11 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
-        ,
-        height="18"
-      />
-      Venti (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
         ,
         height="18"
@@ -324,6 +319,11 @@
         height="18"
       />
       Fischl (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        ,
+        height="18"
+      />
+      Venti (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7071 (rate -14)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5078967 (rate -25)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2060 (30%)<br />Daily Activity: 1740 (25%)<br />Events: 1230
-      (18%)<br />Spiral Abyss: 1100 (15%)<br />Adventure: 519 (7%)<br />Other:
-      242 (3%)<br />Quests: 180 (2%)<br />
+      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -745,7 +745,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Maiden Beloved<br /></td>
+          <td>
+            1 x Gladiator's Finale<br />3 x Viridescent Venerer<br />1 x Maiden
+            Beloved<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1629,10 +1632,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x
-            Thundering Fury<br />
-          </td>
+          <td>4 x Viridescent Venerer<br />1 x Thundering Fury<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
