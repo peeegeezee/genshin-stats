@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>419</td>
+    <td>420</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>222</td>
+    <td>223</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>32</td>
+    <td>33</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>999</td>
+    <td>1011</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>899</td>
+    <td>904</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -309,6 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
         ,
         height="18"
@@ -319,16 +324,11 @@
         height="18"
       />
       Xingqiu (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
-        ,
-        height="18"
-      />
-      Fischl (11)<br />
+      Hu Tao (11)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1975 (rate -74)</td>
+    <td>2109 (rate -72)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1800416 (rate -66)</td>
+    <td>1902628 (rate -64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 560 (29%)<br />Spiral Abyss: 500 (26%)<br />Daily Activity: 480
-      (24%)<br />Events: 390 (19%)<br />Adventure: 42 (2%)<br />Other: 3 (0%)<br />Quests:
-      0 (0%)<br />
+      Mail: 560 (27%)<br />Daily Activity: 540 (26%)<br />Spiral Abyss: 500
+      (24%)<br />Events: 390 (18%)<br />Adventure: 116 (5%)<br />Other: 3
+      (0%)<br />Quests: 0 (0%)<br />
     </td>
   </tr>
 </table>
