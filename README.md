@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>424</td>
+    <td>425</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        ,
+        height="18"
+      />
+      Fischl (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
+        ,
+        height="18"
+      />
+      Traveler (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-        ,
-        height="18"
-      />
-      Tighnari (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (11)<br />
+      Xingqiu (11)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2907 (rate -62)</td>
+    <td>3107 (rate -59)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2926624 (rate -44)</td>
+    <td>3027683 (rate -43)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 910 (32%)<br />Daily Activity: 780 (27%)<br />Mail: 580 (20%)<br />Spiral
-      Abyss: 500 (17%)<br />Adventure: 131 (4%)<br />Other: 6 (0%)<br />Quests:
+      Events: 1050 (34%)<br />Daily Activity: 840 (28%)<br />Mail: 580 (18%)<br />Spiral
+      Abyss: 500 (16%)<br />Adventure: 131 (4%)<br />Other: 6 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
