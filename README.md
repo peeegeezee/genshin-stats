@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -309,11 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Fischl (11)<br /><img
+      Kaedehara Kazuha (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3107 (rate -59)</td>
+    <td>3297 (rate -57)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3027683 (rate -43)</td>
+    <td>3354619 (rate -36)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1050 (34%)<br />Daily Activity: 840 (28%)<br />Mail: 580 (18%)<br />Spiral
-      Abyss: 500 (16%)<br />Adventure: 131 (4%)<br />Other: 6 (0%)<br />Quests:
+      Events: 1160 (36%)<br />Daily Activity: 900 (28%)<br />Mail: 580 (17%)<br />Spiral
+      Abyss: 500 (15%)<br />Adventure: 151 (4%)<br />Other: 6 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
