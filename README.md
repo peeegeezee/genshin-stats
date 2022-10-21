@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fisherman's Toast
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>430</td>
+    <td>431</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,11 +67,11 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>905</td>
+    <td>906</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>250</td>
+    <td>251</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>578</td>
+    <td>583</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3849 (rate -49)</td>
+    <td>4004 (rate -47)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3833164 (rate -27)</td>
+    <td>4006898 (rate -24)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1420 (37%)<br />Daily Activity: 1140 (30%)<br />Mail: 600 (16%)<br />Spiral
-      Abyss: 500 (13%)<br />Adventure: 183 (4%)<br />Other: 6 (0%)<br />Quests:
+      Events: 1500 (38%)<br />Daily Activity: 1200 (30%)<br />Mail: 600 (15%)<br />Spiral
+      Abyss: 500 (13%)<br />Adventure: 198 (4%)<br />Other: 6 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -496,7 +496,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
         />
       </p>
     </td>
@@ -538,7 +538,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Festering Desire</td>
+          <td>Lion's Roar</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -546,7 +546,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>90</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1824,7 +1824,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
         />
       </p>
     </td>
@@ -1866,7 +1866,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Lion's Roar</td>
+          <td>Festering Desire</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1874,7 +1874,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
