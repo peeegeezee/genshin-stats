@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4004 (rate -47)</td>
+    <td>4144 (rate -46)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4006898 (rate -24)</td>
+    <td>4111891 (rate -22)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1500 (38%)<br />Daily Activity: 1200 (30%)<br />Mail: 600 (15%)<br />Spiral
-      Abyss: 500 (13%)<br />Adventure: 198 (4%)<br />Other: 6 (0%)<br />Quests:
+      Events: 1580 (39%)<br />Daily Activity: 1260 (31%)<br />Mail: 600 (14%)<br />Spiral
+      Abyss: 500 (12%)<br />Adventure: 198 (4%)<br />Other: 6 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -496,7 +496,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
         />
       </p>
     </td>
@@ -538,7 +538,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Lion's Roar</td>
+          <td>Festering Desire</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -546,7 +546,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1824,7 +1824,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
         />
       </p>
     </td>
@@ -1866,7 +1866,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Festering Desire</td>
+          <td>Lion's Roar</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1874,7 +1874,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>90</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
