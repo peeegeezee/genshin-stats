@@ -496,7 +496,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
         />
       </p>
     </td>
@@ -538,7 +538,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Festering Desire</td>
+          <td>Lion's Roar</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -546,7 +546,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>90</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1824,7 +1824,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
         />
       </p>
     </td>
@@ -1866,7 +1866,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Lion's Roar</td>
+          <td>Festering Desire</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1874,7 +1874,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
