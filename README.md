@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>452</td>
+    <td>453</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>433</td>
+    <td>434</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1012</td>
+    <td>1015</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4339 (rate -43)</td>
+    <td>4772 (rate -37)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4241898 (rate -20)</td>
+    <td>4397518 (rate -17)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1700 (40%)<br />Daily Activity: 1320 (31%)<br />Mail: 600 (14%)<br />Spiral
-      Abyss: 500 (11%)<br />Adventure: 213 (4%)<br />Other: 6 (0%)<br />Quests:
+      Events: 1760 (37%)<br />Daily Activity: 1380 (29%)<br />Mail: 900 (19%)<br />Spiral
+      Abyss: 500 (11%)<br />Adventure: 224 (4%)<br />Other: 8 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -421,7 +421,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
         />
       </p>
     </td>
@@ -465,7 +465,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Deathmatch</td>
+          <td>Dragon's Bane</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -477,7 +477,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -1085,7 +1085,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
         />
       </p>
     </td>
@@ -1130,11 +1130,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Primordial Jade Winged-Spear</td>
+          <td>Deathmatch</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -1142,7 +1142,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
