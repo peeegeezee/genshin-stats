@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -287,121 +287,64 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>55</td>
+    <td>56</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>120</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>11</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-1</td>
+    <td>11-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>30</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-        ,
-        height="18"
-      />
-      Tighnari (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
-        ,
-        height="18"
-      />
-      Traveler (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (11)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-        ,
-        height="18"
-      />
-      Tighnari (47)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (89531)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-        ,
-        height="18"
-      />
-      Tighnari (49492)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (61)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      Sucrose (47)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4913 (rate -36)</td>
+    <td>5516 (rate -28)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4486552 (rate -15)</td>
+    <td>4973228 (rate -6)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1820 (38%)<br />Daily Activity: 1440 (30%)<br />Mail: 900 (18%)<br />Spiral
-      Abyss: 500 (10%)<br />Adventure: 245 (4%)<br />Other: 8 (0%)<br />Quests:
+      Events: 1880 (35%)<br />Daily Activity: 1500 (27%)<br />Spiral Abyss: 950
+      (17%)<br />Mail: 900 (16%)<br />Adventure: 278 (5%)<br />Other: 8 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -421,7 +364,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
         />
       </p>
     </td>
@@ -465,11 +408,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dragon's Bane</td>
+          <td>Primordial Jade Winged-Spear</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -477,7 +420,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -496,7 +439,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
         />
       </p>
     </td>
@@ -538,7 +481,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Lion's Roar</td>
+          <td>Festering Desire</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -546,7 +489,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -591,7 +534,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1513,6 +1456,79 @@
     </td>
   </tr>
 </table>
+<h3>Shikanoin Heizou</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>7</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Viridescent Venerer<br />1 x Thundering Fury<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>The Widsith</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Beidou</h3>
 <table>
   <tr>
@@ -1584,79 +1600,6 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Shikanoin Heizou</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Thundering Fury<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>The Widsith</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1824,7 +1767,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
         />
       </p>
     </td>
@@ -1866,7 +1809,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Festering Desire</td>
+          <td>Lion's Roar</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1874,7 +1817,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>90</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
