@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>440</td>
+    <td>441</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (12)<br />
+      Hu Tao (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (12)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6050 (rate -21)</td>
+    <td>6111 (rate -20)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5397753 (rate 1)</td>
+    <td>5452564 (rate 2)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2000 (34%)<br />Daily Activity: 1740 (29%)<br />Spiral Abyss: 1100
-      (19%)<br />Mail: 900 (14%)<br />Adventure: 298 (4%)<br />Other: 12 (0%)<br />Quests:
+      Events: 2000 (33%)<br />Daily Activity: 1800 (30%)<br />Spiral Abyss: 1100
+      (19%)<br />Mail: 900 (14%)<br />Adventure: 298 (4%)<br />Other: 13 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
