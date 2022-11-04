@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,15 +31,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>456</td>
+    <td>457</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>444</td>
+    <td>445</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>34</td>
+    <td>35</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1025</td>
+    <td>1027</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>911</td>
+    <td>912</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -287,11 +287,11 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>56</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>31</td>
+    <td>33</td>
   </tr>
   <tr>
     <td>Total Wins</td>
@@ -309,59 +309,59 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (12)<br /><img
+      Nahida (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Thoma (12)<br />
+      Shikanoin Heizou (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (12)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Tighnari (46)<br />
+      Kaedehara Kazuha (39)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Hu Tao (94585)<br />
+      Shikanoin Heizou (91837)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Tighnari (27632)<br />
+      Shikanoin Heizou (59984)<br />
     </td>
   </tr>
   <tr>
@@ -372,18 +372,18 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (46)<br />
+      Kaedehara Kazuha (51)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Xingqiu (43)<br />
+      Bennett (126)<br />
     </td>
   </tr>
 </table>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>642 (rate -89)</td>
+    <td>1376 (rate -77)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>61758 (rate -98)</td>
+    <td>714465 (rate -87)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 600 (94%)<br />Events: 20 (4%)<br />Adventure: 11 (1%)<br />Daily
-      Activity: 10 (1%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral
-      Abyss: 0 (0%)<br />
+      Mail: 660 (48%)<br />Spiral Abyss: 600 (44%)<br />Daily Activity: 70
+      (6%)<br />Adventure: 25 (1%)<br />Events: 20 (1%)<br />Other: 1 (0%)<br />Quests:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -522,7 +522,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1380,7 +1380,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
         />
       </p>
     </td>
@@ -1422,19 +1422,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Sacrificial Fragments</td>
+          <td>Apprentice's Notes</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -1552,7 +1552,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1738,6 +1738,79 @@
     </td>
   </tr>
 </table>
+<h3>Nahida</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Deepwood Memories<br />1 x Wanderer's Troupe<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Sacrificial Fragments</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>4</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Lisa</h3>
 <table>
   <tr>
@@ -1857,7 +1930,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Deepwood Memories<br />1 x Gilded Dreams<br /></td>
+          <td></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1999,7 +2072,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>4</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -2842,20 +2915,20 @@
     </td>
   </tr>
 </table>
-<h3>Nahida</h3>
+<h3>Yun Jin</h3>
 <table>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
         />
       </p>
     </td>
@@ -2865,15 +2938,15 @@
       <table>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Element</td>
-          <td>Dendro</td>
+          <td>Geo</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>40</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -2897,7 +2970,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Apprentice's Notes</td>
+          <td>Beginner's Protector</td>
         </tr>
         <tr>
           <td>Rarity</td>
