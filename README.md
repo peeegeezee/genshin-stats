@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>449</td>
+    <td>450</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -291,11 +291,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>33</td>
+    <td>37</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -1700,7 +1700,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
