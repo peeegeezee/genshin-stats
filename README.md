@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Xingqiu (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+      Thoma (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (12)<br /><img
+      Nahida (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (12)<br /><img
+      Hu Tao (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Kaedehara Kazuha (13)<br />
     </td>
   </tr>
   <tr>
@@ -339,7 +339,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (39)<br />
+      Kaedehara Kazuha (41)<br />
     </td>
   </tr>
   <tr>
@@ -357,22 +357,22 @@
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (59984)<br />
+      Kaedehara Kazuha (67712)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (51)<br />
+      Bennett (59)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
         ,
         height="18"
       />
-      Bennett (126)<br />
+      Bennett (135)<br />
     </td>
   </tr>
 </table>
