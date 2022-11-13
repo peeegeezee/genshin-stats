@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fried Radish Balls
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -280,7 +280,7 @@
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
@@ -291,11 +291,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>37</td>
+    <td>46</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>13</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
       Thoma (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Nahida (13)<br /><img
+      Xingqiu (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (13)<br />
+      Hu Tao (13)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2379 (rate -61)</td>
+    <td>2519 (rate -59)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1995651 (rate -63)</td>
+    <td>2080651 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (29%)<br />Spiral Abyss: 600 (26%)<br />Events: 440 (19%)<br />Daily
-      Activity: 250 (10%)<br />Quests: 210 (8%)<br />Adventure: 198 (8%)<br />Other:
+      Mail: 700 (28%)<br />Spiral Abyss: 600 (24%)<br />Events: 560 (23%)<br />Daily
+      Activity: 250 (10%)<br />Quests: 210 (8%)<br />Adventure: 198 (7%)<br />Other:
       1 (0%)<br />
     </td>
   </tr>
