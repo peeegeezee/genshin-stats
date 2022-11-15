@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -291,7 +291,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>46</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>Total Wins</td>
@@ -309,21 +309,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Xingqiu (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+      Xiangling (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+      Hu Tao (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Nahida (15)<br /><img
+      Bennett (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3091 (rate -49)</td>
+    <td>3241 (rate -47)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2742372 (rate -50)</td>
+    <td>3072408 (rate -44)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1130 (37%)<br />Mail: 700 (23%)<br />Spiral Abyss: 600 (20%)<br />Daily
-      Activity: 250 (8%)<br />Quests: 210 (6%)<br />Adventure: 200 (6%)<br />Other:
+      Events: 1280 (40%)<br />Mail: 700 (22%)<br />Spiral Abyss: 600 (19%)<br />Daily
+      Activity: 250 (7%)<br />Quests: 210 (6%)<br />Adventure: 200 (6%)<br />Other:
       1 (0%)<br />
     </td>
   </tr>
