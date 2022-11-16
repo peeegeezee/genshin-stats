@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>452</td>
+    <td>453</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>584</td>
+    <td>586</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,16 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -328,7 +318,17 @@
         ,
         height="18"
       />
-      Thoma (15)<br />
+      Thoma (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (15)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3241 (rate -47)</td>
+    <td>3451 (rate -44)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3072408 (rate -44)</td>
+    <td>3382685 (rate -38)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1280 (40%)<br />Mail: 700 (22%)<br />Spiral Abyss: 600 (19%)<br />Daily
-      Activity: 250 (7%)<br />Quests: 210 (6%)<br />Adventure: 200 (6%)<br />Other:
+      Events: 1430 (42%)<br />Mail: 700 (21%)<br />Spiral Abyss: 600 (18%)<br />Daily
+      Activity: 310 (8%)<br />Quests: 210 (6%)<br />Adventure: 200 (5%)<br />Other:
       1 (0%)<br />
     </td>
   </tr>
@@ -1926,7 +1926,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>3</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -2842,6 +2842,79 @@
     </td>
   </tr>
 </table>
+<h3>Yun Jin</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Geo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Beginner's Protector</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Collei</h3>
 <table>
   <tr>
@@ -2915,20 +2988,20 @@
     </td>
   </tr>
 </table>
-<h3>Yun Jin</h3>
+<h3>Dori</h3>
 <table>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dori.png"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"
         />
       </p>
     </td>
@@ -2942,11 +3015,11 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Geo</td>
+          <td>Electro</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>40</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -2970,7 +3043,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Beginner's Protector</td>
+          <td>Waster Greatsword</td>
         </tr>
         <tr>
           <td>Rarity</td>
