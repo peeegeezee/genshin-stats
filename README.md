@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
 </table>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4061 (rate -34)</td>
+    <td>4083 (rate -33)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3967685 (rate -28)</td>
+    <td>4031571 (rate -27)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1430 (36%)<br />Spiral Abyss: 1200 (30%)<br />Mail: 700 (17%)<br />Daily
-      Activity: 310 (7%)<br />Adventure: 210 (5%)<br />Quests: 210 (5%)<br />Other:
+      Events: 1430 (36%)<br />Spiral Abyss: 1200 (30%)<br />Mail: 720 (17%)<br />Daily
+      Activity: 310 (7%)<br />Adventure: 212 (5%)<br />Quests: 210 (5%)<br />Other:
       1 (0%)<br />
     </td>
   </tr>
@@ -624,6 +624,82 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Shikanoin Heizou</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>7</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x
+            Thundering Fury<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>The Widsith</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1508,82 +1584,6 @@
         <tr>
           <td>Refinement</td>
           <td>4</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Shikanoin Heizou</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>7</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x
-            Thundering Fury<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>The Widsith</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
         </tr>
       </table>
     </td>
