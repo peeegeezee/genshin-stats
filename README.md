@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>474</td>
+    <td>475</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>457</td>
+    <td>458</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>39</td>
+    <td>40</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -174,7 +174,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -276,11 +276,11 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>586</td>
+    <td>596</td>
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (14)<br /><img
+      Hu Tao (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Bennett (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (14)<br />
+      Bennett (15)<br />
     </td>
   </tr>
   <tr>
@@ -339,7 +339,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (35)<br />
+      Kaedehara Kazuha (40)<br />
     </td>
   </tr>
   <tr>
@@ -372,7 +372,7 @@
         ,
         height="18"
       />
-      Bennett (86)<br />
+      Bennett (94)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
         ,
         height="18"
       />
-      Bennett (163)<br />
+      Bennett (174)<br />
     </td>
   </tr>
 </table>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4083 (rate -33)</td>
+    <td>4148 (rate -32)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4056335 (rate -26)</td>
+    <td>4309957 (rate -22)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1430 (36%)<br />Spiral Abyss: 1200 (30%)<br />Mail: 720 (17%)<br />Daily
-      Activity: 310 (7%)<br />Adventure: 212 (5%)<br />Quests: 210 (5%)<br />Other:
+      Events: 1430 (35%)<br />Spiral Abyss: 1200 (29%)<br />Mail: 720 (18%)<br />Daily
+      Activity: 370 (8%)<br />Adventure: 217 (5%)<br />Quests: 210 (5%)<br />Other:
       1 (0%)<br />
     </td>
   </tr>
