@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Almond Tofu
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>462</td>
+    <td>464</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>606</td>
+    <td>608</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,16 +309,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+      Xingqiu (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Thoma (15)<br /><img
+      Bennett (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -395,7 +395,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4684160 (rate -15)</td>
+    <td>4693741 (rate -15)</td>
   </tr>
   <tr>
     <td>Categories</td>
