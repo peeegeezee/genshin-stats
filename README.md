@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -309,11 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Xingqiu (15)<br /><img
+      Nahida (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -324,11 +324,11 @@
         height="18"
       />
       Bennett (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Thoma (15)<br />
+      Xingqiu (15)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4888 (rate -20)</td>
+    <td>5033 (rate -18)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4736704 (rate -14)</td>
+    <td>4757651 (rate -14)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1430 (30%)<br />Spiral Abyss: 1200 (25%)<br />Mail: 1020 (21%)<br />Daily
-      Activity: 600 (12%)<br />Adventure: 217 (4%)<br />Other: 211 (4%)<br />Quests:
+      Events: 1470 (30%)<br />Spiral Abyss: 1200 (24%)<br />Mail: 1020 (21%)<br />Daily
+      Activity: 600 (11%)<br />Other: 316 (6%)<br />Adventure: 217 (4%)<br />Quests:
       210 (4%)<br />
     </td>
   </tr>
