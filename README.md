@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>475</td>
+    <td>476</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>469</td>
+    <td>470</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>40</td>
+    <td>41</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1039</td>
+    <td>1041</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>917</td>
+    <td>920</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>608</td>
+    <td>618</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -291,55 +291,55 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>48</td>
+    <td>60</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>14</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-2</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>33</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (11)<br /><img
+      Hu Tao (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+      Thoma (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Xingqiu (11)<br />
+      Nahida (14)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Hu Tao (36)<br />
+      Shikanoin Heizou (43)<br />
     </td>
   </tr>
   <tr>
@@ -357,11 +357,11 @@
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Thoma (27798)<br />
+      Hu Tao (38510)<br />
     </td>
   </tr>
   <tr>
@@ -372,7 +372,7 @@
         ,
         height="18"
       />
-      Bennett (51)<br />
+      Bennett (78)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
         ,
         height="18"
       />
-      Bennett (109)<br />
+      Bennett (156)<br />
     </td>
   </tr>
 </table>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>235 (rate -95)</td>
+    <td>1501 (rate -70)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>333383 (rate -93)</td>
+    <td>1093606 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 105 (45%)<br />Events: 80 (34%)<br />Spiral Abyss: 50 (21%)<br />Adventure:
-      0 (0%)<br />Quests: 0 (0%)<br />Daily Activity: 0 (0%)<br />Mail: 0
-      (0%)<br />
+      Spiral Abyss: 600 (40%)<br />Events: 540 (36%)<br />Mail: 220 (15%)<br />Other:
+      105 (7%)<br />Adventure: 26 (2%)<br />Daily Activity: 10 (0%)<br />Quests:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
