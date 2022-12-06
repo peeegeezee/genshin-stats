@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Sweet Madame
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -309,37 +309,37 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (14)<br />
+      Nahida (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (17)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (43)<br />
+      Hu Tao (45)<br />
     </td>
   </tr>
   <tr>
@@ -357,11 +357,11 @@
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
         ,
         height="18"
       />
-      Hu Tao (38510)<br />
+      Tighnari (70336)<br />
     </td>
   </tr>
   <tr>
@@ -372,7 +372,7 @@
         ,
         height="18"
       />
-      Bennett (78)<br />
+      Bennett (110)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
         ,
         height="18"
       />
-      Bennett (156)<br />
+      Bennett (183)<br />
     </td>
   </tr>
 </table>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1501 (rate -70)</td>
+    <td>1701 (rate -66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1093606 (rate -77)</td>
+    <td>1096996 (rate -76)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (40%)<br />Events: 540 (36%)<br />Mail: 220 (15%)<br />Other:
-      105 (7%)<br />Adventure: 26 (2%)<br />Daily Activity: 10 (0%)<br />Quests:
+      Spiral Abyss: 600 (36%)<br />Events: 540 (32%)<br />Mail: 420 (25%)<br />Other:
+      105 (6%)<br />Adventure: 26 (1%)<br />Daily Activity: 10 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -569,7 +569,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Viridescent.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
         />
       </p>
     </td>
@@ -611,15 +611,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>The Viridescent Hunt</td>
+          <td>Skyward Harp</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>90</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
