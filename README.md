@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>479</td>
+    <td>482</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>472</td>
+    <td>473</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>921</td>
+    <td>922</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Tohma (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
       Hutao (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Tohma (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Bennett (17)<br />
+      Bennett (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (17)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2898 (rate -42)</td>
+    <td>3098 (rate -38)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1201277 (rate -74)</td>
+    <td>1259350 (rate -73)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1420 (49%)<br />Events: 620 (22%)<br />Spiral Abyss: 600 (21%)<br />Other:
-      108 (4%)<br />Adventure: 80 (2%)<br />Quests: 60 (2%)<br />Daily Activity:
-      10 (0%)<br />
+      Mail: 1420 (46%)<br />Events: 740 (24%)<br />Spiral Abyss: 600 (20%)<br />Other:
+      108 (4%)<br />Adventure: 100 (3%)<br />Daily Activity: 70 (2%)<br />Quests:
+      60 (1%)<br />
     </td>
   </tr>
 </table>
