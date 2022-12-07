@@ -31,15 +31,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>476</td>
+    <td>479</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>471</td>
+    <td>472</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>36</td>
+    <td>39</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>41</td>
+    <td>46</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1041</td>
+    <td>1048</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>920</td>
+    <td>921</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>252</td>
+    <td>254</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>14.0%</td>
+          <td>15.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
       Tohma (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Xingqiu (17)<br /><img
+      Nahida (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hutao (17)<br />
+      Hutao (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (17)<br />
     </td>
   </tr>
   <tr>
