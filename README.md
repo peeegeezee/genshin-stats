@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>482</td>
+    <td>489</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Hutao (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Tohma (17)<br /><img
+      Kazuha (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
       Bennett (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Nahida (17)<br />
+      Tohma (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hutao (17)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3098 (rate -38)</td>
+    <td>3224 (rate -35)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1259350 (rate -73)</td>
+    <td>1289510 (rate -72)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1420 (46%)<br />Events: 740 (24%)<br />Spiral Abyss: 600 (20%)<br />Other:
-      108 (4%)<br />Adventure: 100 (3%)<br />Daily Activity: 70 (2%)<br />Quests:
-      60 (1%)<br />
+      Mail: 1420 (45%)<br />Events: 740 (23%)<br />Spiral Abyss: 600 (19%)<br />Adventure:
+      220 (7%)<br />Other: 114 (3%)<br />Daily Activity: 70 (2%)<br />Quests: 60
+      (1%)<br />
     </td>
   </tr>
 </table>
