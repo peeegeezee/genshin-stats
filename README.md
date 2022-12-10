@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>489</td>
+    <td>493</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>473</td>
+    <td>474</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
       Bennett (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
       Thoma (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Hu Tao (17)<br />
+      Nahida (17)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3445 (rate -31)</td>
+    <td>4384 (rate -12)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1299510 (rate -72)</td>
+    <td>1853708 (rate -61)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1480 (43%)<br />Events: 800 (24%)<br />Spiral Abyss: 600 (18%)<br />Adventure:
-      320 (9%)<br />Other: 115 (3%)<br />Daily Activity: 70 (2%)<br />Quests: 60
-      (1%)<br />
+      Mail: 1680 (39%)<br />Events: 920 (21%)<br />Adventure: 666 (16%)<br />Spiral
+      Abyss: 600 (14%)<br />Quests: 270 (6%)<br />Daily Activity: 130 (2%)<br />Other:
+      118 (2%)<br />
     </td>
   </tr>
 </table>
@@ -674,7 +674,7 @@
           <td>Artifacts</td>
           <td>
             2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x
-            Thundering Fury<br />
+            Wanderer's Troupe<br />
           </td>
         </tr>
         <tr>
