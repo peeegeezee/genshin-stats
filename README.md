@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>475</td>
+    <td>476</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,19 +59,19 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>144</td>
+    <td>145</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1076</td>
+    <td>1123</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>938</td>
+    <td>957</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>257</td>
+    <td>265</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -174,7 +174,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -194,7 +194,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>53.9%</td>
+          <td>61.9%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -218,7 +218,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>72.0%</td>
+          <td>73.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -242,7 +242,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>87.7%</td>
+          <td>90.5%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>618</td>
+    <td>623</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (17)<br />
+      Thoma (17)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4602 (rate -8)</td>
+    <td>5021 (rate 0)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2273223 (rate -52)</td>
+    <td>2397041 (rate -49)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1680 (37%)<br />Events: 920 (20%)<br />Adventure: 824 (18%)<br />Spiral
-      Abyss: 600 (14%)<br />Quests: 270 (5%)<br />Daily Activity: 190 (4%)<br />Other:
+      Mail: 1900 (38%)<br />Events: 1040 (21%)<br />Adventure: 843 (17%)<br />Spiral
+      Abyss: 600 (12%)<br />Quests: 270 (6%)<br />Daily Activity: 250 (4%)<br />Other:
       118 (2%)<br />
     </td>
   </tr>
