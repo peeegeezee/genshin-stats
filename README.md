@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>480</td>
+    <td>481</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1126</td>
+    <td>1128</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -309,6 +309,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
@@ -318,17 +328,7 @@
         ,
         height="18"
       />
-      Nahida (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (17)<br />
+      Nahida (17)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5733 (rate 13)</td>
+    <td>6127 (rate 21)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2665166 (rate -44)</td>
+    <td>3230240 (rate -32)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2300 (41%)<br />Events: 1220 (22%)<br />Adventure: 855 (15%)<br />Spiral
-      Abyss: 600 (10%)<br />Daily Activity: 370 (6%)<br />Quests: 270 (4%)<br />Other:
-      118 (2%)<br />
+      Mail: 2300 (38%)<br />Events: 1520 (25%)<br />Adventure: 859 (15%)<br />Spiral
+      Abyss: 600 (9%)<br />Daily Activity: 430 (7%)<br />Quests: 270 (4%)<br />Other:
+      148 (2%)<br />
     </td>
   </tr>
 </table>
@@ -3167,7 +3167,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>40</td>
         </tr>
         <tr>
           <td>Friendship</td>
