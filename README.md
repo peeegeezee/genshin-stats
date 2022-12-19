@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>482</td>
+    <td>483</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,11 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (21)<br /><img
+      Xiangling (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
@@ -324,11 +324,11 @@
         height="18"
       />
       Bennett (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Xiangling (21)<br />
+      Kaedehara Kazuha (21)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6867 (rate 36)</td>
+    <td>7581 (rate 50)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3961258 (rate -16)</td>
+    <td>4841770 (rate 1)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2300 (34%)<br />Events: 1540 (23%)<br />Spiral Abyss: 1200 (18%)<br />Adventure:
-      859 (12%)<br />Daily Activity: 550 (8%)<br />Quests: 270 (3%)<br />Other:
-      148 (2%)<br />
+      Mail: 2320 (31%)<br />Events: 1840 (25%)<br />Spiral Abyss: 1200 (16%)<br />Adventure:
+      959 (12%)<br />Daily Activity: 610 (8%)<br />Quests: 470 (6%)<br />Other:
+      182 (2%)<br />
     </td>
   </tr>
 </table>
@@ -1781,7 +1781,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>1 x Viridescent Venerer<br />1 x Noblesse Oblige<br /></td>
+          <td>4 x Viridescent Venerer<br />1 x Gilded Dreams<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -3178,7 +3178,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            4 x Viridescent Venerer<br />1 x Shimenawa's Reminiscence<br />
+            2 x Viridescent Venerer<br />1 x Shimenawa's Reminiscence<br />
           </td>
         </tr>
         <tr>
