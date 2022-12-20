@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fisherman's Toast
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>495</td>
+    <td>499</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>483</td>
+    <td>485</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>61</td>
+    <td>70</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1128</td>
+    <td>1139</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>958</td>
+    <td>962</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>265</td>
+    <td>267</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>100</td>
+    <td>101</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,11 +170,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>20.0%</td>
+          <td>21.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>633</td>
+    <td>634</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -314,11 +314,6 @@
         height="18"
       />
       Xiangling (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -328,7 +323,12 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (21)<br />
+      Kaedehara Kazuha (21)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (21)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7581 (rate 50)</td>
+    <td>7988 (rate 58)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4841770 (rate 1)</td>
+    <td>5427946 (rate 13)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2320 (31%)<br />Events: 1840 (25%)<br />Spiral Abyss: 1200 (16%)<br />Adventure:
-      959 (12%)<br />Daily Activity: 610 (8%)<br />Quests: 470 (6%)<br />Other:
-      182 (2%)<br />
+      Mail: 2320 (30%)<br />Events: 2140 (27%)<br />Spiral Abyss: 1200 (16%)<br />Adventure:
+      976 (12%)<br />Daily Activity: 670 (8%)<br />Quests: 470 (5%)<br />Other:
+      212 (2%)<br />
     </td>
   </tr>
 </table>
@@ -1700,7 +1700,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
