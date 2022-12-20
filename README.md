@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -314,6 +314,11 @@
         height="18"
       />
       Xiangling (21)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -323,12 +328,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (21)<br />
+      Kaedehara Kazuha (21)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7988 (rate 58)</td>
+    <td>8161 (rate 62)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5427946 (rate 13)</td>
+    <td>5498702 (rate 15)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2320 (30%)<br />Events: 2140 (27%)<br />Spiral Abyss: 1200 (16%)<br />Adventure:
-      976 (12%)<br />Daily Activity: 670 (8%)<br />Quests: 470 (5%)<br />Other:
+      Mail: 2320 (29%)<br />Events: 2140 (27%)<br />Spiral Abyss: 1200 (15%)<br />Adventure:
+      1089 (14%)<br />Daily Activity: 730 (8%)<br />Quests: 470 (5%)<br />Other:
       212 (2%)<br />
     </td>
   </tr>
