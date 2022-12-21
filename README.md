@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>499</td>
+    <td>509</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>485</td>
+    <td>486</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>70</td>
+    <td>84</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1139</td>
+    <td>1178</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>962</td>
+    <td>973</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>267</td>
+    <td>268</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>101</td>
+    <td>103</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>26</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>21.0%</td>
+          <td>29.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>634</td>
+    <td>644</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,11 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
@@ -328,7 +323,12 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (21)<br />
+      Kaedehara Kazuha (21)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (21)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8161 (rate 62)</td>
+    <td>8824 (rate 75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5498702 (rate 15)</td>
+    <td>6449564 (rate 35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2320 (29%)<br />Events: 2140 (27%)<br />Spiral Abyss: 1200 (15%)<br />Adventure:
-      1089 (14%)<br />Daily Activity: 730 (8%)<br />Quests: 470 (5%)<br />Other:
-      212 (2%)<br />
+      Mail: 2320 (27%)<br />Events: 2200 (25%)<br />Adventure: 1349 (16%)<br />Spiral
+      Abyss: 1200 (13%)<br />Quests: 810 (9%)<br />Daily Activity: 730 (8%)<br />Other:
+      215 (2%)<br />
     </td>
   </tr>
 </table>
