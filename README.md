@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>509</td>
+    <td>525</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>228</td>
+    <td>229</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,31 +55,31 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>86</td>
+    <td>93</td>
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>145</td>
+    <td>181</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1179</td>
+    <td>1243</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>975</td>
+    <td>999</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>268</td>
+    <td>279</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>103</td>
+    <td>111</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>28</td>
+    <td>42</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>29.0%</td>
+          <td>32.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -218,7 +218,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>73.0%</td>
+          <td>87.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -309,6 +309,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (21)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -318,17 +328,7 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (21)<br />
+      Shikanoin Heizou (21)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8824 (rate 75)</td>
+    <td>9937 (rate 97)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6449564 (rate 35)</td>
+    <td>7693218 (rate 61)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2320 (27%)<br />Events: 2200 (25%)<br />Adventure: 1349 (16%)<br />Spiral
-      Abyss: 1200 (13%)<br />Quests: 810 (9%)<br />Daily Activity: 730 (8%)<br />Other:
-      215 (2%)<br />
+      Mail: 2340 (24%)<br />Events: 2200 (23%)<br />Adventure: 2158 (22%)<br />Spiral
+      Abyss: 1200 (12%)<br />Quests: 1030 (10%)<br />Daily Activity: 790 (7%)<br />Other:
+      219 (2%)<br />
     </td>
   </tr>
 </table>
