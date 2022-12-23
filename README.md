@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>488</td>
+    <td>489</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>95</td>
+    <td>97</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1315</td>
+    <td>1318</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1029</td>
+    <td>1030</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (21)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (21)<br />
+      Shikanoin Heizou (21)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (21)<br />
     </td>
   </tr>
   <tr>
