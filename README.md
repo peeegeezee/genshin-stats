@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>525</td>
+    <td>531</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>487</td>
+    <td>488</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td>Anemoculi</td>
-    <td>65</td>
+    <td>66</td>
   </tr>
   <tr>
     <td>Geoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>93</td>
+    <td>95</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,19 +63,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1243</td>
+    <td>1315</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>999</td>
+    <td>1029</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>279</td>
+    <td>289</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>111</td>
+    <td>114</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -182,11 +182,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>72.7%</td>
+          <td>98.0%</td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td>8</td>
+          <td>10</td>
         </tr>
       </table>
     </td>
@@ -194,11 +194,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>61.9%</td>
+          <td>65.4%</td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td>8</td>
+          <td>10</td>
         </tr>
       </table>
     </td>
@@ -242,7 +242,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>90.5%</td>
+          <td>91.6%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -309,16 +309,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
       Xiangling (21)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9937 (rate 97)</td>
+    <td>10614 (rate 110)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7693218 (rate 61)</td>
+    <td>8248973 (rate 73)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2340 (24%)<br />Events: 2200 (23%)<br />Adventure: 2158 (22%)<br />Spiral
-      Abyss: 1200 (12%)<br />Quests: 1030 (10%)<br />Daily Activity: 790 (7%)<br />Other:
-      219 (2%)<br />
+      Adventure: 2582 (25%)<br />Mail: 2360 (23%)<br />Events: 2200 (20%)<br />Quests:
+      1200 (11%)<br />Spiral Abyss: 1200 (11%)<br />Daily Activity: 850 (8%)<br />Other:
+      222 (2%)<br />
     </td>
   </tr>
 </table>
