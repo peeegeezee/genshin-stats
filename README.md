@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
       Xiangling (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Bennett (21)<br />
+      Bennett (21)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (21)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (21)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10614 (rate 110)</td>
+    <td>11085 (rate 120)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8248973 (rate 73)</td>
+    <td>8565176 (rate 79)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2582 (25%)<br />Mail: 2360 (23%)<br />Events: 2200 (20%)<br />Quests:
-      1200 (11%)<br />Spiral Abyss: 1200 (11%)<br />Daily Activity: 850 (8%)<br />Other:
+      Adventure: 2593 (24%)<br />Events: 2440 (23%)<br />Mail: 2380 (21%)<br />Quests:
+      1340 (12%)<br />Spiral Abyss: 1200 (10%)<br />Daily Activity: 910 (8%)<br />Other:
       222 (2%)<br />
     </td>
   </tr>
@@ -1218,7 +1218,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -1583,7 +1583,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
