@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>531</td>
+    <td>532</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>489</td>
+    <td>491</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -174,7 +174,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
       </table>
     </td>
@@ -309,6 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -319,11 +324,6 @@
         height="18"
       />
       Bennett (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>11085 (rate 120)</td>
+    <td>11320 (rate 124)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8565176 (rate 79)</td>
+    <td>8775097 (rate 84)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2593 (24%)<br />Events: 2440 (23%)<br />Mail: 2380 (21%)<br />Quests:
-      1340 (12%)<br />Spiral Abyss: 1200 (10%)<br />Daily Activity: 910 (8%)<br />Other:
-      222 (2%)<br />
+      Adventure: 2598 (23%)<br />Events: 2500 (23%)<br />Mail: 2410 (22%)<br />Quests:
+      1420 (13%)<br />Spiral Abyss: 1200 (10%)<br />Daily Activity: 970 (8%)<br />Other:
+      222 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1364,7 +1364,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
