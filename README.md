@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>533</td>
+    <td>537</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>491</td>
+    <td>492</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>229</td>
+    <td>234</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>97</td>
+    <td>99</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1318</td>
+    <td>1326</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1030</td>
+    <td>1032</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>289</td>
+    <td>291</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -79,11 +79,11 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>42</td>
+    <td>43</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>36</td>
+    <td>38</td>
   </tr>
 </table>
 
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>644</td>
+    <td>654</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,11 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
@@ -324,6 +319,11 @@
         height="18"
       />
       Kaedehara Kazuha (21)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>12051 (rate 139)</td>
+    <td>12121 (rate 140)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9321288 (rate 95)</td>
+    <td>9555573 (rate 100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2849 (24%)<br />Events: 2620 (22%)<br />Mail: 2440 (21%)<br />Quests:
-      1630 (14%)<br />Spiral Abyss: 1200 (9%)<br />Daily Activity: 1090 (9%)<br />Other:
+      Adventure: 2859 (24%)<br />Events: 2620 (22%)<br />Mail: 2440 (21%)<br />Quests:
+      1630 (14%)<br />Spiral Abyss: 1200 (9%)<br />Daily Activity: 1150 (9%)<br />Other:
       222 (1%)<br />
     </td>
   </tr>
@@ -600,8 +600,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x
-            Wanderer's Troupe<br />
+            1 x Gladiator's Finale<br />2 x Desert Pavilion Chronicle<br />2 x
+            Viridescent Venerer<br />
           </td>
         </tr>
         <tr>
@@ -821,10 +821,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            1 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x Maiden
-            Beloved<br />
-          </td>
+          <td>1 x Gladiator's Finale<br />4 x Viridescent Venerer<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1824,7 +1821,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
         />
       </p>
     </td>
@@ -1869,19 +1866,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Favonius Codex</td>
+          <td>Apprentice's Notes</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -2709,7 +2706,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
         />
       </p>
     </td>
@@ -2751,19 +2748,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Apprentice's Notes</td>
+          <td>Favonius Codex</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
