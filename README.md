@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>537</td>
+    <td>538</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>492</td>
+    <td>493</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1326</td>
+    <td>1327</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1032</td>
+    <td>1033</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>12121 (rate 140)</td>
+    <td>12241 (rate 143)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9555573 (rate 100)</td>
+    <td>9610248 (rate 101)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2859 (24%)<br />Events: 2620 (22%)<br />Mail: 2440 (21%)<br />Quests:
-      1630 (14%)<br />Spiral Abyss: 1200 (9%)<br />Daily Activity: 1150 (9%)<br />Other:
+      Adventure: 2859 (24%)<br />Events: 2680 (22%)<br />Mail: 2440 (20%)<br />Quests:
+      1630 (14%)<br />Daily Activity: 1210 (10%)<br />Spiral Abyss: 1200 (9%)<br />Other:
       222 (1%)<br />
     </td>
   </tr>
