@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>494</td>
+    <td>495</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>12301 (rate 144)</td>
+    <td>12361 (rate 145)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9671677 (rate 102)</td>
+    <td>9724004 (rate 103)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Adventure: 2859 (24%)<br />Events: 2680 (22%)<br />Mail: 2440 (20%)<br />Quests:
-      1630 (14%)<br />Daily Activity: 1270 (10%)<br />Spiral Abyss: 1200 (9%)<br />Other:
+      1630 (14%)<br />Daily Activity: 1330 (10%)<br />Spiral Abyss: 1200 (9%)<br />Other:
       222 (1%)<br />
     </td>
   </tr>
@@ -1897,7 +1897,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
         />
       </p>
     </td>
@@ -1939,19 +1939,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Lion's Roar</td>
+          <td>Dull Blade</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -1970,7 +1970,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
         />
       </p>
     </td>
@@ -2012,19 +2012,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dull Blade</td>
+          <td>Lion's Roar</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
