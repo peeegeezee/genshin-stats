@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>538</td>
+    <td>541</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>495</td>
+    <td>498</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>99</td>
+    <td>103</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1327</td>
+    <td>1342</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1033</td>
+    <td>1039</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>291</td>
+    <td>292</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>43</td>
+    <td>44</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>32.0%</td>
+          <td>33.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -309,6 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -323,12 +328,7 @@
         ,
         height="18"
       />
-      Xiangling (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (21)<br />
+      Xiangling (21)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>12361 (rate 145)</td>
+    <td>172 (rate -98)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9724004 (rate 103)</td>
+    <td>208190 (rate -97)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2859 (24%)<br />Events: 2680 (22%)<br />Mail: 2440 (20%)<br />Quests:
-      1630 (14%)<br />Daily Activity: 1330 (10%)<br />Spiral Abyss: 1200 (9%)<br />Other:
-      222 (1%)<br />
+      Adventure: 131 (77%)<br />Quests: 40 (23%)<br />Other: 1 (0%)<br />Events:
+      0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
