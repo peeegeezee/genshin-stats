@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>498</td>
+    <td>499</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1366</td>
+    <td>1367</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1051</td>
+    <td>1052</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -174,7 +174,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
       </table>
     </td>
@@ -309,21 +309,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (18)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (18)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1125 (rate -90)</td>
+    <td>1192 (rate -90)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1143291 (rate -88)</td>
+    <td>1365578 (rate -86)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (54%)<br />Adventure: 364 (33%)<br />Quests: 100 (8%)<br />Daily
-      Activity: 60 (5%)<br />Other: 1 (0%)<br />Events: 0 (0%)<br />Mail: 0
-      (0%)<br />
+      Spiral Abyss: 600 (51%)<br />Adventure: 371 (31%)<br />Daily Activity: 120
+      (10%)<br />Quests: 100 (8%)<br />Other: 1 (0%)<br />Events: 0 (0%)<br />Mail:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1215,7 +1215,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1697,7 +1697,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2068,7 +2068,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
