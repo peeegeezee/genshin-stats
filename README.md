@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>499</td>
+    <td>500</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -314,21 +314,21 @@
         height="18"
       />
       Nahida (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Xingqiu (18)<br /><img
+      Kaedehara Kazuha (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
       Hu Tao (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (18)<br />
+      Xingqiu (18)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1192 (rate -90)</td>
+    <td>1202 (rate -90)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1365578 (rate -86)</td>
+    <td>1382736 (rate -85)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (51%)<br />Adventure: 371 (31%)<br />Daily Activity: 120
-      (10%)<br />Quests: 100 (8%)<br />Other: 1 (0%)<br />Events: 0 (0%)<br />Mail:
+      Spiral Abyss: 600 (50%)<br />Adventure: 371 (31%)<br />Daily Activity: 130
+      (11%)<br />Quests: 100 (8%)<br />Other: 1 (0%)<br />Events: 0 (0%)<br />Mail:
       0 (0%)<br />
     </td>
   </tr>
