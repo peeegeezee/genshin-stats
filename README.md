@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Nahida (18)<br /><img
+      Xingqiu (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (18)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (18)<br />
+      Hu Tao (18)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1202 (rate -90)</td>
+    <td>1462 (rate -88)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1382736 (rate -85)</td>
+    <td>1642411 (rate -83)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (50%)<br />Adventure: 371 (31%)<br />Daily Activity: 130
-      (11%)<br />Quests: 100 (8%)<br />Other: 1 (0%)<br />Events: 0 (0%)<br />Mail:
-      0 (0%)<br />
+      Spiral Abyss: 600 (42%)<br />Adventure: 371 (26%)<br />Daily Activity: 190
+      (13%)<br />Events: 180 (12%)<br />Quests: 100 (6%)<br />Mail: 20 (1%)<br />Other:
+      1 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1599,7 +1599,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png"
         />
       </p>
     </td>
@@ -1644,7 +1644,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Serpent Spine</td>
+          <td>Sacrificial Greatsword</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1652,11 +1652,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -2341,7 +2341,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
         />
       </p>
     </td>
@@ -2383,7 +2383,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Sacrificial Greatsword</td>
+          <td>Serpent Spine</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2391,11 +2391,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
