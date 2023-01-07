@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>542</td>
+    <td>544</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>501</td>
+    <td>502</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>105</td>
+    <td>106</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1367</td>
+    <td>1381</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1052</td>
+    <td>1053</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>300</td>
+    <td>301</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -194,7 +194,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>71.6%</td>
+          <td>76.9%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -242,7 +242,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>91.6%</td>
+          <td>92.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -314,21 +314,21 @@
         height="18"
       />
       Hu Tao (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
       Thoma (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Nahida (18)<br />
+      Xingqiu (18)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (18)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1462 (rate -88)</td>
+    <td>2105 (rate -83)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1642411 (rate -83)</td>
+    <td>1940682 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (42%)<br />Adventure: 371 (26%)<br />Daily Activity: 190
-      (13%)<br />Events: 180 (12%)<br />Quests: 100 (6%)<br />Mail: 20 (1%)<br />Other:
-      1 (0%)<br />
+      Spiral Abyss: 600 (29%)<br />Adventure: 424 (21%)<br />Events: 380
+      (18%)<br />Mail: 320 (15%)<br />Daily Activity: 250 (11%)<br />Quests: 130
+      (6%)<br />Other: 1 (0%)<br />
     </td>
   </tr>
 </table>
