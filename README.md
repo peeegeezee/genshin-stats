@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>552</td>
+    <td>562</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>504</td>
+    <td>505</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>122</td>
+    <td>158</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,27 +63,27 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1407</td>
+    <td>1499</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1061</td>
+    <td>1096</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>305</td>
+    <td>318</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>117</td>
+    <td>121</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>53</td>
+    <td>55</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>38</td>
+    <td>40</td>
   </tr>
 </table>
 
@@ -170,11 +170,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>40.0%</td>
+          <td>50.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
       </table>
     </td>
@@ -194,7 +194,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>78.7%</td>
+          <td>84.0%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -206,7 +206,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>53.5%</td>
+          <td>63.7%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -309,6 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -323,12 +328,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (18)<br />
+      Kaedehara Kazuha (18)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3075 (rate -75)</td>
+    <td>3756 (rate -69)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2903655 (rate -70)</td>
+    <td>3685079 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1040 (34%)<br />Spiral Abyss: 600 (20%)<br />Events: 460
-      (15%)<br />Daily Activity: 370 (12%)<br />Mail: 320 (10%)<br />Quests: 280
-      (9%)<br />Other: 5 (0%)<br />
+      Adventure: 1521 (41%)<br />Spiral Abyss: 600 (16%)<br />Events: 460
+      (13%)<br />Daily Activity: 430 (11%)<br />Quests: 420 (11%)<br />Mail: 320
+      (8%)<br />Other: 5 (0%)<br />
     </td>
   </tr>
 </table>
