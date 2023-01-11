@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>562</td>
+    <td>564</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>505</td>
+    <td>506</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>158</td>
+    <td>159</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1499</td>
+    <td>1506</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1096</td>
+    <td>1097</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>318</td>
+    <td>320</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>121</td>
+    <td>122</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>55</td>
+    <td>58</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>50.0%</td>
+          <td>51.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -314,6 +314,11 @@
         height="18"
       />
       Thoma (18)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -323,12 +328,7 @@
         ,
         height="18"
       />
-      Hu Tao (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (18)<br />
+      Hu Tao (18)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3756 (rate -69)</td>
+    <td>3875 (rate -68)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3685079 (rate -62)</td>
+    <td>3779712 (rate -61)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1521 (41%)<br />Spiral Abyss: 600 (16%)<br />Events: 460
-      (13%)<br />Daily Activity: 430 (11%)<br />Quests: 420 (11%)<br />Mail: 320
+      Adventure: 1560 (41%)<br />Spiral Abyss: 600 (16%)<br />Daily Activity:
+      490 (13%)<br />Events: 460 (12%)<br />Quests: 420 (10%)<br />Mail: 340
       (8%)<br />Other: 5 (0%)<br />
     </td>
   </tr>
@@ -466,6 +466,79 @@
         <tr>
           <td>Name</td>
           <td>Primordial Jade Winged-Spear</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Tighnari</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Wanderer's Troupe<br />1 x Deepwood Memories<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Skyward Harp</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -627,79 +700,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Tighnari</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Dendro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>9</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Wanderer's Troupe<br />1 x Deepwood Memories<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Skyward Harp</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
@@ -2432,7 +2432,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -2560,7 +2560,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"
         />
       </p>
     </td>
@@ -2602,19 +2602,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dull Blade</td>
+          <td>Prototype Rancour</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>20</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
