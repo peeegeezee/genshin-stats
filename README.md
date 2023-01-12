@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>506</td>
+    <td>507</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>159</td>
+    <td>165</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1506</td>
+    <td>1521</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1097</td>
+    <td>1099</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>320</td>
+    <td>324</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>58</td>
+    <td>59</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -280,7 +280,7 @@
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (18)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
       Hu Tao (18)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Thoma (18)<br />
+      Kaedehara Kazuha (18)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4116 (rate -66)</td>
+    <td>4196 (rate -66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4007171 (rate -59)</td>
+    <td>4027035 (rate -58)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1681 (41%)<br />Spiral Abyss: 600 (15%)<br />Daily Activity:
-      550 (14%)<br />Quests: 480 (11%)<br />Events: 460 (11%)<br />Mail: 340
+      Adventure: 1761 (42%)<br />Spiral Abyss: 600 (15%)<br />Daily Activity:
+      550 (14%)<br />Quests: 480 (11%)<br />Events: 460 (10%)<br />Mail: 340
       (8%)<br />Other: 5 (0%)<br />
     </td>
   </tr>
