@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>571</td>
+    <td>580</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>512</td>
+    <td>513</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>180</td>
+    <td>195</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1553</td>
+    <td>1577</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1117</td>
+    <td>1122</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>337</td>
+    <td>343</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>126</td>
+    <td>128</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>64</td>
+    <td>71</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>55.0%</td>
+          <td>59.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>656</td>
+    <td>666</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (16)<br />
+      Thoma (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (16)<br />
     </td>
   </tr>
   <tr>
