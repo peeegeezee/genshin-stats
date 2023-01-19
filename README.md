@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>580</td>
+    <td>586</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>513</td>
+    <td>514</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>195</td>
+    <td>202</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1577</td>
+    <td>1611</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1122</td>
+    <td>1131</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>343</td>
+    <td>348</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>128</td>
+    <td>129</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>71</td>
+    <td>75</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>59.0%</td>
+          <td>62.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (16)<br /><img
+      Nahida (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Nahida (16)<br />
+      Hu Tao (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (16)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6894 (rate -44)</td>
+    <td>7457 (rate -39)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5913629 (rate -39)</td>
+    <td>6315873 (rate -35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2783 (41%)<br />Spiral Abyss: 1200 (18%)<br />Mail: 980
-      (14%)<br />Daily Activity: 910 (13%)<br />Quests: 510 (7%)<br />Events:
-      500 (7%)<br />Other: 11 (0%)<br />
+      Adventure: 3098 (42%)<br />Spiral Abyss: 1200 (17%)<br />Mail: 1080
+      (15%)<br />Daily Activity: 970 (13%)<br />Quests: 590 (7%)<br />Events:
+      500 (6%)<br />Other: 19 (0%)<br />
     </td>
   </tr>
 </table>
