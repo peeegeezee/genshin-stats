@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -309,16 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -328,7 +318,17 @@
         ,
         height="18"
       />
-      Nahida (16)<br />
+      Nahida (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (16)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7577 (rate -39)</td>
+    <td>7748 (rate -37)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6545716 (rate -33)</td>
+    <td>6725471 (rate -31)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 3098 (41%)<br />Spiral Abyss: 1200 (16%)<br />Daily Activity:
-      1090 (15%)<br />Mail: 1080 (15%)<br />Quests: 590 (7%)<br />Events: 500
-      (6%)<br />Other: 19 (0%)<br />
+      Adventure: 3109 (41%)<br />Spiral Abyss: 1200 (16%)<br />Daily Activity:
+      1150 (15%)<br />Mail: 1100 (14%)<br />Quests: 650 (8%)<br />Events: 500
+      (6%)<br />Other: 39 (0%)<br />
     </td>
   </tr>
 </table>
