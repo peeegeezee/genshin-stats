@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>516</td>
+    <td>518</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1611</td>
+    <td>1616</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1131</td>
+    <td>1134</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>348</td>
+    <td>349</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -242,7 +242,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>92.0%</td>
+          <td>92.1%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -280,7 +280,7 @@
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
@@ -291,11 +291,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>41</td>
+    <td>48</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>16</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (16)<br />
+      Thoma (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (16)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7748 (rate -37)</td>
+    <td>8346 (rate -32)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6725471 (rate -31)</td>
+    <td>7583182 (rate -22)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 3109 (41%)<br />Spiral Abyss: 1200 (16%)<br />Daily Activity:
-      1150 (15%)<br />Mail: 1100 (14%)<br />Quests: 650 (8%)<br />Events: 500
-      (6%)<br />Other: 39 (0%)<br />
+      Adventure: 3114 (38%)<br />Daily Activity: 1210 (15%)<br />Spiral Abyss:
+      1200 (15%)<br />Mail: 1100 (13%)<br />Events: 990 (11%)<br />Quests: 670
+      (8%)<br />Other: 62 (0%)<br />
     </td>
   </tr>
 </table>
@@ -551,6 +551,82 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Xiangling</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Crimson Witch of Flames<br />2 x Noblesse Oblige<br />1 x
+            Viridescent Venerer<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Deathmatch</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1140,82 +1216,6 @@
         <tr>
           <td>Refinement</td>
           <td>3</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Xiangling</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Pyro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Crimson Witch of Flames<br />2 x Noblesse Oblige<br />1 x
-            Viridescent Venerer<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Deathmatch</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
         </tr>
       </table>
     </td>
@@ -2068,7 +2068,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
