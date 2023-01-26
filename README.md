@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      3 x Almond Tofu
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>519</td>
+    <td>520</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1618</td>
+    <td>1619</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -174,7 +174,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
       </table>
     </td>
@@ -324,11 +324,11 @@
         height="18"
       />
       Hu Tao (22)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Thoma (22)<br />
+      Kaedehara Kazuha (22)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8707 (rate -29)</td>
+    <td>8979 (rate -27)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8174920 (rate -16)</td>
+    <td>8561270 (rate -12)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 3125 (36%)<br />Daily Activity: 1330 (16%)<br />Events: 1200
-      (14%)<br />Spiral Abyss: 1200 (14%)<br />Mail: 1120 (13%)<br />Quests: 670
+      Adventure: 3127 (35%)<br />Events: 1410 (16%)<br />Daily Activity: 1390
+      (16%)<br />Spiral Abyss: 1200 (14%)<br />Mail: 1120 (12%)<br />Quests: 670
       (7%)<br />Other: 62 (0%)<br />
     </td>
   </tr>
@@ -627,6 +627,79 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Xingqiu</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>5 x Emblem of Severed Fate<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Sacrificial Sword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -1116,7 +1189,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Noblesse Oblige<br />1 x Emblem of Severed Fate<br /></td>
+          <td>4 x Noblesse Oblige<br />1 x Lavawalker<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1216,79 +1289,6 @@
         <tr>
           <td>Refinement</td>
           <td>3</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Xingqiu</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Emblem of Severed Fate<br />1 x Lavawalker<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Sacrificial Sword</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
