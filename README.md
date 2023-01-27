@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Almond Tofu
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>520</td>
+    <td>521</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1619</td>
+    <td>1620</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>676</td>
+    <td>678</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,21 +309,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Nahida (22)<br /><img
+      Thoma (22)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (22)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Hu Tao (22)<br /><img
+      Nahida (22)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8979 (rate -27)</td>
+    <td>9039 (rate -27)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8561270 (rate -12)</td>
+    <td>8613535 (rate -11)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 3127 (35%)<br />Events: 1410 (16%)<br />Daily Activity: 1390
-      (16%)<br />Spiral Abyss: 1200 (14%)<br />Mail: 1120 (12%)<br />Quests: 670
+      Adventure: 3127 (35%)<br />Daily Activity: 1450 (17%)<br />Events: 1410
+      (16%)<br />Spiral Abyss: 1200 (13%)<br />Mail: 1120 (12%)<br />Quests: 670
       (7%)<br />Other: 62 (0%)<br />
     </td>
   </tr>
