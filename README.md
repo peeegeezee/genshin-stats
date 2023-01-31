@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (22)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (22)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (22)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (22)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (22)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (22)<br />
+      Hu Tao (22)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9261 (rate -25)</td>
+    <td>9341 (rate -24)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8820021 (rate -9)</td>
+    <td>8904496 (rate -8)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 3129 (34%)<br />Daily Activity: 1630 (18%)<br />Events: 1410
-      (16%)<br />Spiral Abyss: 1200 (13%)<br />Mail: 1160 (12%)<br />Quests: 670
+      Adventure: 3129 (34%)<br />Daily Activity: 1690 (19%)<br />Events: 1410
+      (16%)<br />Spiral Abyss: 1200 (12%)<br />Mail: 1180 (12%)<br />Quests: 670
       (7%)<br />Other: 62 (0%)<br />
     </td>
   </tr>
