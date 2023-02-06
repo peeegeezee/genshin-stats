@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Sweet Madame
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>587</td>
+    <td>588</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>531</td>
+    <td>532</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1625</td>
+    <td>1633</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1135</td>
+    <td>1136</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -206,7 +206,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>68.9%</td>
+          <td>70.2%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -218,7 +218,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>87.0%</td>
+          <td>88.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -313,22 +313,22 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (13)<br /><img
+      Kaedehara Kazuha (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+      Thoma (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Xiangling (13)<br />
+      Shikanoin Heizou (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (17)<br />
     </td>
   </tr>
   <tr>
@@ -339,7 +339,7 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (45)<br />
+      Shikanoin Heizou (61)<br />
     </td>
   </tr>
   <tr>
@@ -361,7 +361,7 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (53004)<br />
+      Shikanoin Heizou (105342)<br />
     </td>
   </tr>
   <tr>
@@ -372,7 +372,7 @@
         ,
         height="18"
       />
-      Bennett (77)<br />
+      Bennett (113)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
         ,
         height="18"
       />
-      Bennett (145)<br />
+      Bennett (195)<br />
     </td>
   </tr>
 </table>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1234 (rate -86)</td>
+    <td>1540 (rate -83)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1114608 (rate -87)</td>
+    <td>1377405 (rate -84)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 500 (41%)<br />Events: 400 (33%)<br />Daily Activity: 240
-      (20%)<br />Other: 41 (3%)<br />Adventure: 33 (2%)<br />Mail: 20 (1%)<br />Quests:
-      0 (0%)<br />
+      Spiral Abyss: 550 (36%)<br />Events: 400 (26%)<br />Daily Activity: 300
+      (20%)<br />Quests: 110 (8%)<br />Mail: 80 (5%)<br />Adventure: 59 (3%)<br />Other:
+      41 (2%)<br />
     </td>
   </tr>
 </table>
@@ -421,7 +421,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
         />
       </p>
     </td>
@@ -451,9 +451,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            4 x Shimenawa's Reminiscence<br />1 x Emblem of Severed Fate<br />
-          </td>
+          <td>4 x Shimenawa's Reminiscence<br />1 x Maiden Beloved<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -465,11 +463,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Primordial Jade Winged-Spear</td>
+          <td>Deathmatch</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -477,7 +475,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -569,7 +567,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
         />
       </p>
     </td>
@@ -614,11 +612,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Deathmatch</td>
+          <td>Primordial Jade Winged-Spear</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -626,7 +624,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -970,7 +968,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>1 x Gladiator's Finale<br />4 x Viridescent Venerer<br /></td>
+          <td>
+            1 x Gladiator's Finale<br />3 x Viridescent Venerer<br />1 x
+            Shimenawa's Reminiscence<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1453,7 +1454,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
         />
       </p>
     </td>
@@ -1495,19 +1496,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Apprentice's Notes</td>
+          <td>Sacrificial Fragments</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -1556,7 +1557,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Noblesse Oblige<br />1 x Lavawalker<br /></td>
+          <td>4 x Noblesse Oblige<br />1 x Wanderer's Troupe<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1599,7 +1600,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
         />
       </p>
     </td>
@@ -1641,19 +1642,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Sacrificial Fragments</td>
+          <td>Apprentice's Notes</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -1858,7 +1859,7 @@
         </tr>
         <tr>
           <td>Outfits</td>
-          <td></td>
+          <td>A Sobriquet Under Shade</td>
         </tr>
       </table>
     </td>
