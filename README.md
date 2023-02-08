@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,11 +35,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>533</td>
+    <td>534</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>39</td>
+    <td>41</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1633</td>
+    <td>1634</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1136</td>
+    <td>1137</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -291,11 +291,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>101</td>
+    <td>121</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>17</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -314,21 +314,21 @@
         height="18"
       />
       Xiangling (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (17)<br />
+      Shikanoin Heizou (17)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1620 (rate -82)</td>
+    <td>1727 (rate -81)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1568108 (rate -82)</td>
+    <td>1698714 (rate -81)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 550 (34%)<br />Events: 400 (25%)<br />Daily Activity: 360
-      (23%)<br />Quests: 110 (7%)<br />Mail: 80 (5%)<br />Adventure: 79 (4%)<br />Other:
+      Spiral Abyss: 550 (32%)<br />Events: 440 (26%)<br />Daily Activity: 420
+      (25%)<br />Quests: 110 (7%)<br />Adventure: 86 (4%)<br />Mail: 80 (4%)<br />Other:
       41 (2%)<br />
     </td>
   </tr>
