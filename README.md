@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>302</td>
+    <td>303</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>232</td>
+    <td>233</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>77</td>
+    <td>79</td>
   </tr>
   <tr>
     <td>dendroculi</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>352</td>
+    <td>356</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>37.2%</td>
+          <td>37.7%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -266,17 +266,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5041 (rate 49)</td>
+    <td>5199 (rate 54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4747621 (rate 99)</td>
+    <td>4900995 (rate 106)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1272 (26%)<br />Daily Activity: 1090 (22%)<br />Quests: 1050
-      (21%)<br />Events: 1040 (21%)<br />Mail: 500 (9%)<br />Other: 89 (1%)<br />Spiral
+      Adventure: 1290 (25%)<br />Daily Activity: 1150 (23%)<br />Events: 1120
+      (22%)<br />Quests: 1050 (20%)<br />Mail: 500 (9%)<br />Other: 89 (1%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -346,7 +346,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -391,7 +391,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -492,7 +492,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -638,7 +638,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -661,7 +661,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
         />
       </p>
     </td>
@@ -691,7 +691,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td></td>
+          <td>
+            2 x Heart of Depth<br />2 x Emblem of Severed Fate<br />1 x Prayers
+            for Illumination<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -703,7 +706,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>The Flute</td>
+          <td>Sacrificial Sword</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -711,11 +714,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -734,7 +737,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Exotic.png"
         />
       </p>
     </td>
@@ -778,7 +781,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Favonius Lance</td>
+          <td>Crescent Pike</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -786,11 +789,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>40</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -882,7 +885,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Jade.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
         />
       </p>
     </td>
@@ -924,11 +927,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Emerald Orb</td>
+          <td>Favonius Codex</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -936,7 +939,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -1080,7 +1083,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1103,7 +1106,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png"
         />
       </p>
     </td>
@@ -1145,7 +1148,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Sacrificial Sword</td>
+          <td>The Flute</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1153,11 +1156,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>20</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -1741,7 +1744,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -2055,7 +2058,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dawn.png"
         />
       </p>
     </td>
@@ -2097,19 +2100,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dull Blade</td>
+          <td>Harbinger of Dawn</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>20</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -2420,7 +2423,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"
         />
       </p>
     </td>
@@ -2462,19 +2465,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Beginner's Protector</td>
+          <td>Favonius Lance</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>20</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -2566,7 +2569,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Ruby.png"
         />
       </p>
     </td>
@@ -2608,11 +2611,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Beginner's Protector</td>
+          <td>White Tassel</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -2639,7 +2642,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Proto.png"
         />
       </p>
     </td>
@@ -2681,11 +2684,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Hunter's Bow</td>
+          <td>Prototype Crescent</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -2858,7 +2861,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Sling.png"
         />
       </p>
     </td>
@@ -2900,11 +2903,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Hunter's Bow</td>
+          <td>Slingshot</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -3004,7 +3007,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Curve.png"
         />
       </p>
     </td>
@@ -3046,15 +3049,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Hunter's Bow</td>
+          <td>Recurve Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>20</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -3077,7 +3080,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Glaive.png"
         />
       </p>
     </td>
@@ -3119,19 +3122,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Waster Greatsword</td>
+          <td>Ferrous Shadow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>20</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
