@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>306</td>
+    <td>307</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>235</td>
+    <td>236</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>79</td>
+    <td>83</td>
   </tr>
   <tr>
     <td>dendroculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>561</td>
+    <td>568</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>358</td>
+    <td>368</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>113</td>
+    <td>114</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -173,7 +173,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>57.2%</td>
+          <td>57.8%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>38.1%</td>
+          <td>39.6%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -251,11 +251,11 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Exquisite (8560)</td>
+    <td>Exquisite (9780)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>291</td>
+    <td>296</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -266,17 +266,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5477 (rate 62)</td>
+    <td>5602 (rate 66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5108386 (rate 115)</td>
+    <td>5419863 (rate 128)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1428 (27%)<br />Daily Activity: 1270 (24%)<br />Events: 1120
-      (20%)<br />Quests: 1070 (19%)<br />Mail: 500 (9%)<br />Other: 89 (1%)<br />Spiral
+      Adventure: 1470 (27%)<br />Daily Activity: 1330 (24%)<br />Events: 1120
+      (20%)<br />Quests: 1090 (20%)<br />Mail: 500 (8%)<br />Other: 92 (1%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -399,7 +399,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Tenacity of the Millelith<br /></td>
+          <td>4 x Noblesse Oblige<br />1 x Viridescent Venerer<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -643,6 +643,82 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Yelan</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>60</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Thundering Fury<br />2 x Shimenawa's Reminiscence<br />1 x
+            Wanderer's Troupe<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Rust</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>60</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -1063,7 +1139,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>3 x Noblesse Oblige<br />2 x Emblem of Severed Fate<br /></td>
+          <td>3 x Gilded Dreams<br />2 x Emblem of Severed Fate<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1453,82 +1529,6 @@
         <tr>
           <td>Refinement</td>
           <td>2</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Yelan</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>49</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Thundering Fury<br />2 x Shimenawa's Reminiscence<br />1 x
-            Wanderer's Troupe<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Rust</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>20</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>3</td>
         </tr>
       </table>
     </td>
@@ -2569,7 +2569,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Ruby.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
         />
       </p>
     </td>
@@ -2611,11 +2611,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>White Tassel</td>
+          <td>Beginner's Protector</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>3</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -2989,6 +2989,79 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Hu Tao</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Ruby.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>20</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>White Tassel</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
