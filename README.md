@@ -8,21 +8,21 @@
   </tr>
   <tr>
     <td>Adventurer Rank</td>
-    <td>50</td>
+    <td>51</td>
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      3 x Almond Tofu
     </td>
   </tr>
 </table>
@@ -313,18 +313,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6396 (rate 89)</td>
+    <td>6595 (rate 95)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5690581 (rate 139)</td>
+    <td>6033758 (rate 154)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1764 (28%)<br />Daily Activity: 1390 (22%)<br />Events: 1120
-      (18%)<br />Quests: 1090 (17%)<br />Mail: 540 (8%)<br />Spiral Abyss: 400
-      (6%)<br />Other: 92 (1%)<br />
+      Adventure: 1802 (28%)<br />Daily Activity: 1450 (22%)<br />Quests: 1190
+      (19%)<br />Events: 1120 (16%)<br />Mail: 540 (8%)<br />Spiral Abyss: 400
+      (6%)<br />Other: 93 (1%)<br />
     </td>
   </tr>
 </table>
@@ -442,7 +442,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -476,6 +476,82 @@
     </td>
   </tr>
 </table>
+<h3>Yelan</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Viridescent Venerer<br />1 x Emblem of Severed Fate<br />2 x
+            Instructor<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Rust</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>60</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>3</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Raiden Shogun</h3>
 <table>
   <tr>
@@ -489,7 +565,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Mori.png"
         />
       </p>
     </td>
@@ -531,7 +607,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Deathmatch</td>
+          <td>"The Catch"</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -543,7 +619,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -622,82 +698,6 @@
     </td>
   </tr>
 </table>
-<h3>Yelan</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>60</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Viridescent Venerer<br />1 x Emblem of Severed Fate<br />2 x
-            Instructor<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Rust</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>60</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>3</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Rosaria</h3>
 <table>
   <tr>
@@ -711,7 +711,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Ruby.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
         />
       </p>
     </td>
@@ -753,15 +753,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>White Tassel</td>
+          <td>Dragon's Bane</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1062,7 +1062,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -1429,7 +1429,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1502,7 +1502,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -2105,7 +2105,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
         />
       </p>
     </td>
@@ -2149,7 +2149,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dragon's Bane</td>
+          <td>Deathmatch</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2157,7 +2157,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2691,7 +2691,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Ruby.png"
         />
       </p>
     </td>
@@ -2733,11 +2733,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Beginner's Protector</td>
+          <td>White Tassel</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Level</td>
