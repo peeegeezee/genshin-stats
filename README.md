@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Almond Tofu
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>309</td>
+    <td>313</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>237</td>
+    <td>239</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>86</td>
+    <td>95</td>
   </tr>
   <tr>
     <td>dendroculi</td>
@@ -63,19 +63,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>580</td>
+    <td>592</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>388</td>
+    <td>415</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>123</td>
+    <td>130</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>52</td>
+    <td>54</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -197,7 +197,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>45.0%</td>
+          <td>46.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -209,7 +209,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>45.1%</td>
+          <td>45.5%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>43.7%</td>
+          <td>47.1%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>298</td>
+    <td>300</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,18 +313,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6595 (rate 95)</td>
+    <td>6871 (rate 103)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6033758 (rate 154)</td>
+    <td>6251170 (rate 163)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1802 (28%)<br />Daily Activity: 1450 (22%)<br />Quests: 1190
-      (19%)<br />Events: 1120 (16%)<br />Mail: 540 (8%)<br />Spiral Abyss: 400
-      (6%)<br />Other: 93 (1%)<br />
+      Adventure: 1898 (28%)<br />Daily Activity: 1510 (22%)<br />Quests: 1310
+      (20%)<br />Events: 1120 (17%)<br />Mail: 540 (7%)<br />Spiral Abyss: 400
+      (5%)<br />Other: 93 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1508,6 +1508,81 @@
     </td>
   </tr>
 </table>
+<h3>Hu Tao</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Crimson Witch of Flames<br />3 x Shimenawa's Reminiscence<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Deathmatch</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Wanderer</h3>
 <table>
   <tr>
@@ -2087,81 +2162,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Hu Tao</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Pyro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>40</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Crimson Witch of Flames<br />3 x Shimenawa's Reminiscence<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Deathmatch</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
