@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6871 (rate 103)</td>
+    <td>6957 (rate 106)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6251170 (rate 163)</td>
+    <td>6330811 (rate 166)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1898 (28%)<br />Daily Activity: 1510 (22%)<br />Quests: 1310
-      (20%)<br />Events: 1120 (17%)<br />Mail: 540 (7%)<br />Spiral Abyss: 400
+      Adventure: 1924 (28%)<br />Daily Activity: 1570 (23%)<br />Quests: 1310
+      (19%)<br />Events: 1120 (17%)<br />Mail: 540 (7%)<br />Spiral Abyss: 400
       (5%)<br />Other: 93 (1%)<br />
     </td>
   </tr>
@@ -446,7 +446,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Noblesse Oblige<br />1 x Viridescent Venerer<br /></td>
+          <td>5 x Noblesse Oblige<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -511,7 +511,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2863,7 +2863,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
