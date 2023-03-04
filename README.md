@@ -8,21 +8,21 @@
   </tr>
   <tr>
     <td>Adventurer Rank</td>
-    <td>51</td>
+    <td>52</td>
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>319</td>
+    <td>321</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>242</td>
+    <td>245</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>215</td>
+    <td>217</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>61</td>
+    <td>62</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>598</td>
+    <td>603</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>130</td>
+    <td>131</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>39</td>
+    <td>40</td>
   </tr>
 </table>
 
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>48.2%</td>
+          <td>48.3%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>310</td>
+    <td>314</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>388 (rate -94)</td>
+    <td>756 (rate -90)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>196393 (rate -96)</td>
+    <td>566181 (rate -91)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 120 (31%)<br />Mail: 120 (31%)<br />Adventure: 87 (23%)<br />Events:
-      60 (15%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Events: 280 (38%)<br />Daily Activity: 180 (24%)<br />Mail: 170 (22%)<br />Adventure:
+      125 (16%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
