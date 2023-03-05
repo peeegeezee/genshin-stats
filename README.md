@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>321</td>
+    <td>326</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>245</td>
+    <td>246</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,11 +43,11 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>217</td>
+    <td>218</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
-    <td>50</td>
+    <td>51</td>
   </tr>
   <tr>
     <td>Geoculi</td>
@@ -55,35 +55,35 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>62</td>
+    <td>69</td>
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>87</td>
+    <td>90</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>603</td>
+    <td>625</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>423</td>
+    <td>429</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>131</td>
+    <td>132</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>55</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>40</td>
+    <td>41</td>
   </tr>
 </table>
 
@@ -161,7 +161,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>19.0%</td>
+          <td>20.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -197,7 +197,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>47.0%</td>
+          <td>48.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>48.3%</td>
+          <td>49.6%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -233,11 +233,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>69.2%</td>
+          <td>71.4%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>314</td>
+    <td>316</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,18 +313,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>756 (rate -90)</td>
+    <td>1446 (rate -81)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>566181 (rate -91)</td>
+    <td>1280300 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 280 (38%)<br />Daily Activity: 180 (24%)<br />Mail: 170 (22%)<br />Adventure:
-      125 (16%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Events: 380 (27%)<br />Adventure: 374 (26%)<br />Quests: 280 (20%)<br />Daily
+      Activity: 240 (16%)<br />Mail: 170 (11%)<br />Other: 2 (0%)<br />Spiral
+      Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -361,7 +361,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>86</td>
+          <td>88</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -1656,6 +1656,79 @@
     </td>
   </tr>
 </table>
+<h3>Collei</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>5 x Deepwood Memories<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Favonius Warbow</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Mona</h3>
 <table>
   <tr>
@@ -2746,79 +2819,6 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Collei</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Dendro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>40</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>5 x Deepwood Memories<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Favonius Warbow</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>50</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
         </tr>
       </table>
     </td>
