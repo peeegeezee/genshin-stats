@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>335</td>
+    <td>336</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>249</td>
+    <td>250</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>99</td>
+    <td>100</td>
   </tr>
   <tr>
     <td>dendroculi</td>
@@ -63,19 +63,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>635</td>
+    <td>636</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>437</td>
+    <td>445</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>134</td>
+    <td>138</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>57</td>
+    <td>58</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>50.5%</td>
+          <td>52.1%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2626 (rate -65)</td>
+    <td>2837 (rate -62)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2581060 (rate -59)</td>
+    <td>2704508 (rate -57)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1020 (39%)<br />Adventure: 533 (21%)<br />Daily Activity: 480
-      (19%)<br />Quests: 420 (15%)<br />Mail: 170 (6%)<br />Other: 3 (0%)<br />Spiral
+      Events: 1060 (38%)<br />Adventure: 644 (23%)<br />Daily Activity: 540
+      (20%)<br />Quests: 420 (14%)<br />Mail: 170 (5%)<br />Other: 3 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -369,7 +369,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>2</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -668,7 +668,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>1 x Blizzard Strayer<br />4 x The Exile<br /></td>
+          <td>2 x Blizzard Strayer<br />3 x The Exile<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -806,7 +806,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -838,7 +838,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -2814,7 +2814,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>20</td>
         </tr>
         <tr>
           <td>Refinement</td>
