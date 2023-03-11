@@ -8,21 +8,21 @@
   </tr>
   <tr>
     <td>Adventurer Rank</td>
-    <td>52</td>
+    <td>53</td>
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>336</td>
+    <td>339</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>250</td>
+    <td>251</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>218</td>
+    <td>221</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>71</td>
+    <td>74</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>636</td>
+    <td>638</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>138</td>
+    <td>139</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -161,7 +161,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>20.0%</td>
+          <td>21.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>342</td>
+    <td>346</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2837 (rate -62)</td>
+    <td>2996 (rate -60)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2704508 (rate -57)</td>
+    <td>3031109 (rate -52)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1060 (38%)<br />Adventure: 644 (23%)<br />Daily Activity: 540
-      (20%)<br />Quests: 420 (14%)<br />Mail: 170 (5%)<br />Other: 3 (0%)<br />Spiral
+      Events: 1060 (36%)<br />Adventure: 693 (23%)<br />Daily Activity: 600
+      (20%)<br />Quests: 450 (15%)<br />Mail: 190 (6%)<br />Other: 3 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -365,7 +365,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -373,7 +373,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Noblesse Oblige<br /></td>
+          <td>1 x Viridescent Venerer<br />4 x Emblem of Severed Fate<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -446,7 +446,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Viridescent Venerer<br /></td>
+          <td>
+            2 x Instructor<br />2 x Wanderer's Troupe<br />1 x Viridescent
+            Venerer<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -520,8 +523,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Viridescent Venerer<br />1 x Emblem of Severed Fate<br />2 x
-            Instructor<br />
+            2 x The Exile<br />2 x Emblem of Severed Fate<br />1 x Noblesse
+            Oblige<br />
           </td>
         </tr>
         <tr>
@@ -547,6 +550,79 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Rosaria</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>2 x Blizzard Strayer<br />3 x The Exile<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td>To the Church's Free Spirit</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Deathmatch</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -595,7 +671,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Emblem of Severed Fate<br />1 x The Exile<br /></td>
+          <td>
+            2 x Emblem of Severed Fate<br />2 x The Exile<br />1 x Noblesse
+            Oblige<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -620,79 +699,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Rosaria</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>2 x Blizzard Strayer<br />3 x The Exile<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td>To the Church's Free Spirit</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Deathmatch</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>2</td>
         </tr>
       </table>
     </td>
@@ -814,7 +820,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>3 x Gilded Dreams<br />2 x Emblem of Severed Fate<br /></td>
+          <td>
+            3 x Gilded Dreams<br />1 x Emblem of Severed Fate<br />1 x
+            Instructor<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -963,8 +972,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Heart of Depth<br />2 x Emblem of Severed Fate<br />1 x Prayers
-            for Illumination<br />
+            2 x Heart of Depth<br />1 x Emblem of Severed Fate<br />1 x Noblesse
+            Oblige<br />1 x Prayers for Illumination<br />
           </td>
         </tr>
         <tr>
@@ -2814,7 +2823,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>40</td>
         </tr>
         <tr>
           <td>Refinement</td>
