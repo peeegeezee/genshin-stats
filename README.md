@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>339</td>
+    <td>348</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>251</td>
+    <td>253</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,27 +55,27 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>74</td>
+    <td>75</td>
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>90</td>
+    <td>92</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>638</td>
+    <td>647</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>445</td>
+    <td>451</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>139</td>
+    <td>141</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>58</td>
+    <td>59</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>41</td>
+    <td>42</td>
   </tr>
 </table>
 
@@ -197,7 +197,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>48.0%</td>
+          <td>49.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -233,7 +233,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>72.2%</td>
+          <td>72.5%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>346</td>
+    <td>347</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2996 (rate -60)</td>
+    <td>3334 (rate -56)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3031109 (rate -52)</td>
+    <td>3507083 (rate -45)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1060 (36%)<br />Adventure: 693 (23%)<br />Daily Activity: 600
-      (20%)<br />Quests: 450 (15%)<br />Mail: 190 (6%)<br />Other: 3 (0%)<br />Spiral
+      Events: 1060 (32%)<br />Adventure: 851 (26%)<br />Daily Activity: 660
+      (20%)<br />Quests: 570 (17%)<br />Mail: 190 (5%)<br />Other: 3 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -514,7 +514,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Constellation</td>
