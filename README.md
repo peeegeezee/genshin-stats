@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fried Radish Balls
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>348</td>
+    <td>349</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>647</td>
+    <td>649</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>451</td>
+    <td>452</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>52.1%</td>
+          <td>52.2%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -251,11 +251,11 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Extraordinary (10880)</td>
+    <td>Extraordinary (11180)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>347</td>
+    <td>348</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3334 (rate -56)</td>
+    <td>3530 (rate -53)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3507083 (rate -45)</td>
+    <td>3793106 (rate -40)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1060 (32%)<br />Adventure: 851 (26%)<br />Daily Activity: 660
-      (20%)<br />Quests: 570 (17%)<br />Mail: 190 (5%)<br />Other: 3 (0%)<br />Spiral
+      Events: 1060 (31%)<br />Adventure: 867 (25%)<br />Daily Activity: 720
+      (20%)<br />Quests: 690 (19%)<br />Mail: 190 (5%)<br />Other: 3 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
