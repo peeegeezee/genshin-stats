@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>352</td>
+    <td>355</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>254</td>
+    <td>256</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -47,11 +47,11 @@
   </tr>
   <tr>
     <td>Anemoculi</td>
-    <td>52</td>
+    <td>55</td>
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>100</td>
+    <td>101</td>
   </tr>
   <tr>
     <td>dendroculi</td>
@@ -67,11 +67,11 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>456</td>
+    <td>461</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>142</td>
+    <td>143</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>52.2%</td>
+          <td>52.4%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -233,7 +233,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>72.5%</td>
+          <td>73.9%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -251,11 +251,11 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Extraordinary (11180)</td>
+    <td>Extraordinary (11610)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>348</td>
+    <td>349</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3832 (rate -50)</td>
+    <td>4073 (rate -46)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4228730 (rate -34)</td>
+    <td>4445544 (rate -30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1130 (30%)<br />Adventure: 919 (24%)<br />Daily Activity: 840
-      (22%)<br />Quests: 750 (20%)<br />Mail: 190 (4%)<br />Other: 3 (0%)<br />Spiral
+      Events: 1200 (30%)<br />Adventure: 970 (24%)<br />Daily Activity: 900
+      (23%)<br />Quests: 810 (19%)<br />Mail: 190 (4%)<br />Other: 3 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -510,7 +510,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>82</td>
+          <td>87</td>
         </tr>
         <tr>
           <td>Friendship</td>
