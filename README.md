@@ -8,21 +8,21 @@
   </tr>
   <tr>
     <td>Adventurer Rank</td>
-    <td>53</td>
+    <td>54</td>
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>257</td>
+    <td>258</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>75</td>
+    <td>76</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4407 (rate -42)</td>
+    <td>4557 (rate -40)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4831528 (rate -24)</td>
+    <td>4954211 (rate -22)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1270 (29%)<br />Adventure: 1094 (25%)<br />Daily Activity: 960
-      (22%)<br />Quests: 890 (20%)<br />Mail: 190 (4%)<br />Other: 3 (0%)<br />Spiral
+      Events: 1340 (30%)<br />Adventure: 1094 (25%)<br />Daily Activity: 1020
+      (22%)<br />Quests: 890 (19%)<br />Mail: 210 (4%)<br />Other: 3 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -510,7 +510,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>87</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -663,7 +663,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1805,7 +1805,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
