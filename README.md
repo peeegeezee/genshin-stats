@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fisherman's Toast
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>366</td>
+    <td>370</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>259</td>
+    <td>260</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>658</td>
+    <td>663</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -233,7 +233,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>77.9%</td>
+          <td>78.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -251,11 +251,11 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Stately (12460)</td>
+    <td>Stately (12480)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>357</td>
+    <td>361</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4904 (rate -36)</td>
+    <td>5187 (rate -32)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5366359 (rate -16)</td>
+    <td>5652295 (rate -11)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1410 (29%)<br />Adventure: 1220 (25%)<br />Daily Activity: 1080
-      (23%)<br />Quests: 980 (19%)<br />Mail: 210 (4%)<br />Other: 4 (0%)<br />Spiral
+      Events: 1480 (29%)<br />Adventure: 1253 (25%)<br />Daily Activity: 1140
+      (21%)<br />Quests: 1100 (21%)<br />Mail: 210 (4%)<br />Other: 4 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
