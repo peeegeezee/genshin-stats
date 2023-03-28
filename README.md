@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>376</td>
+    <td>378</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>267</td>
+    <td>268</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>690</td>
+    <td>694</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -233,7 +233,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>78.5%</td>
+          <td>78.6%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6469 (rate -15)</td>
+    <td>6701 (rate -12)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6598246 (rate 2)</td>
+    <td>6653066 (rate 3)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1740 (27%)<br />Adventure: 1651 (26%)<br />Daily Activity: 1530
-      (24%)<br />Quests: 1330 (20%)<br />Mail: 210 (3%)<br />Other: 8 (0%)<br />Spiral
+      Adventure: 1822 (28%)<br />Events: 1740 (26%)<br />Daily Activity: 1590
+      (24%)<br />Quests: 1330 (19%)<br />Mail: 210 (3%)<br />Other: 9 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -641,7 +641,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Youtou.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
         />
       </p>
     </td>
@@ -659,7 +659,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>79</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -685,7 +685,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Kagotsurube Isshin</td>
+          <td>Sacrificial Sword</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -693,7 +693,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1089,7 +1089,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Youtou.png"
         />
       </p>
     </td>
@@ -1134,7 +1134,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Sacrificial Sword</td>
+          <td>Kagotsurube Isshin</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1142,7 +1142,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
