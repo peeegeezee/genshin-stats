@@ -8,21 +8,21 @@
   </tr>
   <tr>
     <td>Adventurer Rank</td>
-    <td>54</td>
+    <td>55</td>
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>378</td>
+    <td>379</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>268</td>
+    <td>269</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -251,11 +251,11 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Stately (12480)</td>
+    <td>Exquisite (9300)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>363</td>
+    <td>370</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -266,23 +266,23 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>65</td>
+    <td>66</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>1</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>5-1</td>
+    <td>5-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>2</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -313,18 +313,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6701 (rate -12)</td>
+    <td>7081 (rate -7)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6653066 (rate 3)</td>
+    <td>6881862 (rate 7)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1822 (28%)<br />Events: 1740 (26%)<br />Daily Activity: 1590
-      (24%)<br />Quests: 1330 (19%)<br />Mail: 210 (3%)<br />Other: 9 (0%)<br />Spiral
-      Abyss: 0 (0%)<br />
+      Adventure: 1842 (27%)<br />Events: 1840 (26%)<br />Daily Activity: 1650
+      (24%)<br />Quests: 1330 (19%)<br />Mail: 210 (2%)<br />Spiral Abyss: 200
+      (2%)<br />Other: 9 (0%)<br />
     </td>
   </tr>
 </table>
@@ -590,7 +590,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -703,6 +703,79 @@
     </td>
   </tr>
 </table>
+<h3>Diona</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>71</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>2 x Tenacity of the Millelith<br />3 x Maiden Beloved<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Favonius Warbow</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Raiden Shogun</h3>
 <table>
   <tr>
@@ -738,7 +811,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -922,79 +995,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Diona</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>61</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>2 x Tenacity of the Millelith<br />3 x Maiden Beloved<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>The Stringless</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>20</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
@@ -1532,7 +1532,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
         />
       </p>
     </td>
@@ -1576,7 +1576,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Favonius Warbow</td>
+          <td>The Stringless</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1584,11 +1584,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>20</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
