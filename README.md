@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>380</td>
+    <td>381</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>270</td>
+    <td>271</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -201,7 +201,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -247,15 +247,15 @@
 <table>
   <tr>
     <td>Level</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Exquisite (9300)</td>
+    <td>Extraordinary (11240)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>370</td>
+    <td>378</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7215 (rate -5)</td>
+    <td>7445 (rate -2)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7031395 (rate 9)</td>
+    <td>7159858 (rate 11)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1890 (27%)<br />Adventure: 1866 (26%)<br />Daily Activity: 1710
-      (24%)<br />Quests: 1330 (19%)<br />Mail: 210 (2%)<br />Spiral Abyss: 200
+      Adventure: 1936 (27%)<br />Events: 1890 (26%)<br />Daily Activity: 1770
+      (24%)<br />Quests: 1330 (17%)<br />Mail: 310 (4%)<br />Spiral Abyss: 200
       (2%)<br />Other: 9 (0%)<br />
     </td>
   </tr>
@@ -734,7 +734,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>71</td>
+          <td>72</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -2683,7 +2683,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -3121,7 +3121,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -3432,7 +3432,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Curve.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
         />
       </p>
     </td>
@@ -3474,15 +3474,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Recurve Bow</td>
+          <td>Hunter's Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>3</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
