@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>381</td>
+    <td>382</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>272</td>
+    <td>273</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>103</td>
+    <td>104</td>
   </tr>
   <tr>
     <td>dendroculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>700</td>
+    <td>701</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>494</td>
+    <td>496</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>54.7%</td>
+          <td>55.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -313,18 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>42 (rate -99)</td>
+    <td>181 (rate -97)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>122140 (rate -98)</td>
+    <td>305896 (rate -95)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Quests: 30 (72%)<br />Adventure: 12 (28%)<br />Events: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Events: 60 (34%)<br />Daily Activity: 60 (33%)<br />Adventure: 31 (17%)<br />Quests:
+      30 (16%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -3077,7 +3076,7 @@
       <table>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Element</td>
@@ -3296,7 +3295,7 @@
       <table>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Element</td>
@@ -3604,7 +3603,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Artifacts</td>
