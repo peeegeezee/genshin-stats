@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>382</td>
+    <td>386</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>273</td>
+    <td>274</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td>Anemoculi</td>
-    <td>56</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>Geoculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>701</td>
+    <td>704</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>496</td>
+    <td>499</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -233,7 +233,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>79.4%</td>
+          <td>80.3%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>382</td>
+    <td>383</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>181 (rate -97)</td>
+    <td>512 (rate -93)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>305896 (rate -95)</td>
+    <td>528402 (rate -92)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 60 (34%)<br />Daily Activity: 60 (33%)<br />Adventure: 31 (17%)<br />Quests:
-      30 (16%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Events: 160 (32%)<br />Quests: 150 (29%)<br />Daily Activity: 120 (23%)<br />Adventure:
+      82 (16%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -2220,7 +2220,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>1 x Adventurer<br /></td>
+          <td></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2512,7 +2512,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Adventurer<br /></td>
+          <td></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2658,7 +2658,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Berserker<br /></td>
+          <td></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2731,7 +2731,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Berserker<br /></td>
+          <td></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2950,7 +2950,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Berserker<br /></td>
+          <td></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -3603,7 +3603,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Artifacts</td>
