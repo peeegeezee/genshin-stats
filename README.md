@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>275</td>
+    <td>276</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>499</td>
+    <td>501</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>68</td>
+    <td>69</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>55.0%</td>
+          <td>56.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -251,11 +251,11 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Extraordinary (11240)</td>
+    <td>Extraordinary (11940)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>387</td>
+    <td>424</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>656 (rate -91)</td>
+    <td>820 (rate -89)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>653015 (rate -91)</td>
+    <td>727266 (rate -90)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 220 (34%)<br />Daily Activity: 180 (28%)<br />Quests: 150 (22%)<br />Adventure:
-      86 (13%)<br />Mail: 20 (3%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Events: 280 (35%)<br />Daily Activity: 240 (30%)<br />Quests: 150 (18%)<br />Adventure:
+      130 (15%)<br />Mail: 20 (2%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
@@ -779,6 +779,81 @@
     </td>
   </tr>
 </table>
+<h3>Hu Tao</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>74</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Crimson Witch of Flames<br />3 x Shimenawa's Reminiscence<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Dragon's Bane</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>60</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Diona</h3>
 <table>
   <tr>
@@ -847,81 +922,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Hu Tao</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Pyro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Crimson Witch of Flames<br />3 x Shimenawa's Reminiscence<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Dragon's Bane</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>60</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
