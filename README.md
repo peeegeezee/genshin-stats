@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>278</td>
+    <td>279</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -51,35 +51,35 @@
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>104</td>
+    <td>111</td>
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>77</td>
+    <td>78</td>
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>94</td>
+    <td>95</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>710</td>
+    <td>719</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>504</td>
+    <td>526</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>163</td>
+    <td>166</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>69</td>
+    <td>70</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -161,7 +161,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>24.0%</td>
+          <td>25.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>56.1%</td>
+          <td>59.2%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1089 (rate -86)</td>
+    <td>1345 (rate -82)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>949457 (rate -86)</td>
+    <td>1134201 (rate -84)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 400 (37%)<br />Daily Activity: 360 (34%)<br />Adventure: 159
-      (15%)<br />Quests: 150 (13%)<br />Mail: 20 (1%)<br />Spiral Abyss: 0
+      Daily Activity: 420 (32%)<br />Events: 400 (30%)<br />Adventure: 355
+      (26%)<br />Quests: 150 (11%)<br />Mail: 20 (1%)<br />Spiral Abyss: 0
       (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -568,7 +568,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png"
         />
       </p>
     </td>
@@ -612,15 +612,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Sacrificial Sword</td>
+          <td>Mistsplitter Reforged</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1089,7 +1089,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Youtou.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
         />
       </p>
     </td>
@@ -1134,7 +1134,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Kagotsurube Isshin</td>
+          <td>Sacrificial Sword</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1142,7 +1142,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
