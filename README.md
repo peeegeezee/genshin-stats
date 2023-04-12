@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -31,15 +31,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>396</td>
+    <td>397</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>282</td>
+    <td>283</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>45</td>
+    <td>46</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>539</td>
+    <td>542</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>61.1%</td>
+          <td>61.3%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>433</td>
+    <td>437</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,17 +313,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1985 (rate -74)</td>
+    <td>2699 (rate -65)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2265516 (rate -68)</td>
+    <td>2321325 (rate -68)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 600 (31%)<br />Adventure: 591 (30%)<br />Events: 400
-      (20%)<br />Quests: 350 (17%)<br />Mail: 40 (2%)<br />Other: 4 (0%)<br />Spiral
+      Daily Activity: 660 (25%)<br />Mail: 640 (24%)<br />Adventure: 605
+      (23%)<br />Events: 440 (16%)<br />Quests: 350 (12%)<br />Other: 4 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -2035,6 +2035,79 @@
     </td>
   </tr>
 </table>
+<h3>Layla</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Layla.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dawn.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Noblesse Oblige<br />1 x Blizzard Strayer<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Harbinger of Dawn</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>60</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>4</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Noelle</h3>
 <table>
   <tr>
@@ -2486,7 +2559,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dawn.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
         />
       </p>
     </td>
@@ -2528,11 +2601,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Harbinger of Dawn</td>
+          <td>Lion's Roar</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -2540,7 +2613,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -2979,79 +3052,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Layla</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Layla.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>40</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x The Exile<br />1 x Lucky Dog<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Lion's Roar</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>20</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>3</td>
         </tr>
       </table>
     </td>
@@ -3631,11 +3631,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>40</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
