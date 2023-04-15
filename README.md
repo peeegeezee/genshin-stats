@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>399</td>
+    <td>405</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>284</td>
+    <td>286</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>240</td>
+    <td>248</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,31 +55,31 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>78</td>
+    <td>80</td>
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>95</td>
+    <td>99</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>737</td>
+    <td>750</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>542</td>
+    <td>548</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>174</td>
+    <td>175</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>70</td>
+    <td>72</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -161,7 +161,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>25.0%</td>
+          <td>27.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -197,7 +197,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>52.0%</td>
+          <td>54.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>437</td>
+    <td>441</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,18 +313,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3346 (rate -57)</td>
+    <td>3613 (rate -54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2674698 (rate -63)</td>
+    <td>2849200 (rate -60)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 780 (24%)<br />Mail: 760 (23%)<br />Adventure: 691
-      (21%)<br />Events: 560 (17%)<br />Quests: 350 (10%)<br />Spiral Abyss: 200
-      (5%)<br />Other: 5 (0%)<br />
+      Daily Activity: 840 (24%)<br />Adventure: 815 (23%)<br />Mail: 790
+      (22%)<br />Events: 560 (15%)<br />Quests: 400 (11%)<br />Spiral Abyss: 200
+      (5%)<br />Other: 8 (0%)<br />
     </td>
   </tr>
 </table>
@@ -2147,7 +2147,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Artifacts</td>
