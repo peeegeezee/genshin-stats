@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>407</td>
+    <td>410</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>287</td>
+    <td>289</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>248</td>
+    <td>249</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>Geoculi</td>
-    <td>117</td>
+    <td>118</td>
   </tr>
   <tr>
     <td>dendroculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>751</td>
+    <td>754</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>551</td>
+    <td>554</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>23</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -221,7 +221,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>61.8%</td>
+          <td>62.2%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -266,23 +266,23 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>67</td>
+    <td>68</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>6-2</td>
+    <td>6-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>6</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -313,18 +313,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3713 (rate -52)</td>
+    <td>4283 (rate -45)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2898453 (rate -60)</td>
+    <td>3353694 (rate -53)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 900 (25%)<br />Adventure: 853 (23%)<br />Mail: 790
-      (22%)<br />Events: 560 (15%)<br />Quests: 400 (10%)<br />Spiral Abyss: 200
-      (5%)<br />Other: 10 (0%)<br />
+      Daily Activity: 1020 (24%)<br />Adventure: 953 (23%)<br />Mail: 810
+      (19%)<br />Events: 740 (17%)<br />Quests: 450 (10%)<br />Spiral Abyss: 300
+      (7%)<br />Other: 10 (0%)<br />
     </td>
   </tr>
 </table>
@@ -476,7 +476,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -545,7 +545,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -620,7 +620,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -865,7 +865,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
         />
       </p>
     </td>
@@ -887,7 +887,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -909,15 +909,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dragon's Bane</td>
+          <td>Primordial Jade Winged-Spear</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1000,6 +1000,79 @@
     </td>
   </tr>
 </table>
+<h3>Nahida</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Exotic.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>5 x Deepwood Memories<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Mappa Mare</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>60</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>2</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Kujou Sara</h3>
 <table>
   <tr>
@@ -1013,7 +1086,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
         />
       </p>
     </td>
@@ -1058,19 +1131,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Rust</td>
+          <td>Amos' Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -1225,79 +1298,6 @@
     </td>
   </tr>
 </table>
-<h3>Nahida</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Exotic.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Dendro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>60</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>5 x Deepwood Memories<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Mappa Mare</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>60</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>2</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Ningguang</h3>
 <table>
   <tr>
@@ -1387,7 +1387,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
         />
       </p>
     </td>
@@ -1429,19 +1429,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Amos' Bow</td>
+          <td>Rust</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -2175,7 +2175,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
