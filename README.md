@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>289</td>
+    <td>290</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>80</td>
+    <td>81</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>754</td>
+    <td>755</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -313,18 +313,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4283 (rate -45)</td>
+    <td>4425 (rate -43)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3353694 (rate -53)</td>
+    <td>3446456 (rate -52)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1020 (24%)<br />Adventure: 953 (23%)<br />Mail: 810
-      (19%)<br />Events: 740 (17%)<br />Quests: 450 (10%)<br />Spiral Abyss: 300
-      (7%)<br />Other: 10 (0%)<br />
+      Daily Activity: 1080 (25%)<br />Adventure: 955 (22%)<br />Mail: 810
+      (19%)<br />Events: 800 (18%)<br />Quests: 470 (10%)<br />Spiral Abyss: 300
+      (6%)<br />Other: 10 (0%)<br />
     </td>
   </tr>
 </table>
@@ -590,7 +590,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -621,6 +621,81 @@
         <tr>
           <td>Level</td>
           <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Hu Tao</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>83</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Crimson Witch of Flames<br />3 x Shimenawa's Reminiscence<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Primordial Jade Winged-Spear</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -847,81 +922,6 @@
         <tr>
           <td>Refinement</td>
           <td>2</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Hu Tao</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Pyro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Crimson Witch of Flames<br />3 x Shimenawa's Reminiscence<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Primordial Jade Winged-Spear</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>50</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
