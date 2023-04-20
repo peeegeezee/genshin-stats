@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fisherman's Toast
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>290</td>
+    <td>291</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>755</td>
+    <td>757</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>445</td>
+    <td>449</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,18 +313,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4425 (rate -43)</td>
+    <td>4610 (rate -41)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3446456 (rate -52)</td>
+    <td>3594508 (rate -50)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1080 (25%)<br />Adventure: 955 (22%)<br />Mail: 810
-      (19%)<br />Events: 800 (18%)<br />Quests: 470 (10%)<br />Spiral Abyss: 300
-      (6%)<br />Other: 10 (0%)<br />
+      Daily Activity: 1140 (25%)<br />Adventure: 959 (21%)<br />Events: 920
+      (20%)<br />Mail: 810 (18%)<br />Quests: 470 (10%)<br />Spiral Abyss: 300
+      (6%)<br />Other: 11 (0%)<br />
     </td>
   </tr>
 </table>
@@ -889,7 +889,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1522,6 +1522,79 @@
     </td>
   </tr>
 </table>
+<h3>Barbara</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>5 x Resolution of Sojourner<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Favonius Codex</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>20</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>3</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Kaeya</h3>
 <table>
   <tr>
@@ -1738,79 +1811,6 @@
         <tr>
           <td>Refinement</td>
           <td>2</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Barbara</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>50</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>5 x Resolution of Sojourner<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Favonius Codex</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>20</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>3</td>
         </tr>
       </table>
     </td>
@@ -2978,7 +2978,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
