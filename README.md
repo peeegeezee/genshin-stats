@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>411</td>
+    <td>412</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>292</td>
+    <td>293</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>449</td>
+    <td>453</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -270,19 +270,19 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>3</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>3</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>6-3</td>
+    <td>7-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>9</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -313,18 +313,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4724 (rate -39)</td>
+    <td>5184 (rate -34)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3805490 (rate -47)</td>
+    <td>3994943 (rate -45)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1200 (26%)<br />Adventure: 973 (21%)<br />Events: 920
-      (20%)<br />Mail: 850 (18%)<br />Quests: 470 (9%)<br />Spiral Abyss: 300
-      (6%)<br />Other: 11 (0%)<br />
+      Daily Activity: 1260 (25%)<br />Adventure: 993 (20%)<br />Events: 920
+      (18%)<br />Mail: 850 (16%)<br />Spiral Abyss: 500 (9%)<br />Quests: 470
+      (9%)<br />Other: 191 (3%)<br />
     </td>
   </tr>
 </table>
@@ -661,7 +661,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>83</td>
+          <td>85</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -736,7 +736,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>83</td>
+          <td>85</td>
         </tr>
         <tr>
           <td>Friendship</td>
