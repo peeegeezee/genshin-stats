@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>412</td>
+    <td>413</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>293</td>
+    <td>294</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -247,15 +247,15 @@
 <table>
   <tr>
     <td>Level</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Extraordinary (11940)</td>
+    <td>Luxury (18070)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>453</td>
+    <td>460</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,18 +313,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5184 (rate -34)</td>
+    <td>5394 (rate -31)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3994943 (rate -45)</td>
+    <td>4128723 (rate -43)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1260 (25%)<br />Adventure: 993 (20%)<br />Events: 920
-      (18%)<br />Mail: 850 (16%)<br />Spiral Abyss: 500 (9%)<br />Quests: 470
-      (9%)<br />Other: 191 (3%)<br />
+      Daily Activity: 1320 (25%)<br />Adventure: 1063 (20%)<br />Events: 920
+      (18%)<br />Mail: 850 (15%)<br />Spiral Abyss: 500 (9%)<br />Quests: 470
+      (8%)<br />Other: 271 (5%)<br />
     </td>
   </tr>
 </table>
@@ -695,7 +695,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -962,7 +962,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1162,7 +1162,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"
         />
       </p>
     </td>
@@ -1192,7 +1192,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Resolution of Sojourner<br />1 x Brave Heart<br /></td>
+          <td>
+            1 x Resolution of Sojourner<br />3 x Tenacity of the Millelith<br />1
+            x Brave Heart<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1204,15 +1207,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Eye of Perception</td>
+          <td>Thrilling Tales of Dragon Slayers</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>40</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2765,6 +2768,79 @@
     </td>
   </tr>
 </table>
+<h3>Sucrose</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Eye of Perception</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Xinyan</h3>
 <table>
   <tr>
@@ -3417,79 +3493,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Sucrose</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>20</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Apprentice's Notes</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
