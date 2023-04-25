@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>418</td>
+    <td>420</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>295</td>
+    <td>297</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>261</td>
+    <td>263</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>772</td>
+    <td>774</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>557</td>
+    <td>560</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -206,7 +206,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>22.2%</td>
+          <td>27.4%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -334,18 +334,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5763 (rate -26)</td>
+    <td>5943 (rate -24)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4372297 (rate -40)</td>
+    <td>4557149 (rate -37)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1380 (24%)<br />Adventure: 1188 (21%)<br />Events: 920
-      (16%)<br />Mail: 850 (15%)<br />Quests: 570 (10%)<br />Spiral Abyss: 500
-      (8%)<br />Other: 355 (6%)<br />
+      Daily Activity: 1440 (25%)<br />Adventure: 1227 (21%)<br />Events: 920
+      (16%)<br />Mail: 850 (14%)<br />Quests: 570 (9%)<br />Spiral Abyss: 500
+      (8%)<br />Other: 436 (7%)<br />
     </td>
   </tr>
 </table>
