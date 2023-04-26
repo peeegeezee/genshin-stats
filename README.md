@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      3 x Almond Tofu
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>420</td>
+    <td>421</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>560</td>
+    <td>562</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -206,7 +206,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>27.4%</td>
+          <td>27.7%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>460</td>
+    <td>465</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -334,18 +334,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5943 (rate -24)</td>
+    <td>6021 (rate -23)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4557149 (rate -37)</td>
+    <td>4706070 (rate -35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1440 (25%)<br />Adventure: 1227 (21%)<br />Events: 920
+      Daily Activity: 1500 (25%)<br />Adventure: 1244 (21%)<br />Events: 920
       (16%)<br />Mail: 850 (14%)<br />Quests: 570 (9%)<br />Spiral Abyss: 500
-      (8%)<br />Other: 436 (7%)<br />
+      (8%)<br />Other: 437 (7%)<br />
     </td>
   </tr>
 </table>
