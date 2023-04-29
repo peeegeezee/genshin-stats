@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -334,17 +334,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6368 (rate -19)</td>
+    <td>6428 (rate -18)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5196634 (rate -28)</td>
+    <td>5442704 (rate -25)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1620 (26%)<br />Adventure: 1251 (20%)<br />Events: 920
-      (15%)<br />Mail: 850 (14%)<br />Other: 657 (10%)<br />Quests: 570 (8%)<br />Spiral
+      Daily Activity: 1680 (27%)<br />Adventure: 1251 (20%)<br />Events: 920
+      (15%)<br />Mail: 850 (13%)<br />Other: 657 (10%)<br />Quests: 570 (8%)<br />Spiral
       Abyss: 500 (7%)<br />
     </td>
   </tr>
@@ -619,9 +619,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            2 x Emblem of Severed Fate<br />2 x The Exile<br />1 x Instructor<br />
-          </td>
+          <td>5 x Blizzard Strayer<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1094,6 +1092,81 @@
     </td>
   </tr>
 </table>
+<h3>Xiangling</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Exotic.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            1 x Gilded Dreams<br />3 x Gladiator's Finale<br />1 x Adventurer<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Crescent Pike</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>2</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Fischl</h3>
 <table>
   <tr>
@@ -1541,81 +1614,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Xiangling</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Exotic.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Pyro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>50</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            1 x Gilded Dreams<br />3 x Gladiator's Finale<br />1 x Adventurer<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Crescent Pike</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>40</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>2</td>
         </tr>
       </table>
     </td>
