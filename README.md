@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,11 +35,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>303</td>
+    <td>304</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>46</td>
+    <td>48</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -334,17 +334,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>480 (rate -93)</td>
+    <td>580 (rate -91)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>401327 (rate -93)</td>
+    <td>452816 (rate -92)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 350 (73%)<br />Quests: 60 (13%)<br />Daily Activity: 60 (12%)<br />Adventure:
-      10 (2%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />
+      Other: 350 (61%)<br />Daily Activity: 120 (21%)<br />Quests: 60 (11%)<br />Events:
+      40 (6%)<br />Adventure: 10 (1%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -606,7 +607,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>85</td>
+          <td>88</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -1900,11 +1901,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -3263,7 +3264,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -3729,7 +3730,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
