@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>304</td>
+    <td>305</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -334,17 +334,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>580 (rate -91)</td>
+    <td>900 (rate -86)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>452816 (rate -92)</td>
+    <td>753829 (rate -86)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 350 (61%)<br />Daily Activity: 120 (21%)<br />Quests: 60 (11%)<br />Events:
-      40 (6%)<br />Adventure: 10 (1%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0
+      Other: 590 (66%)<br />Daily Activity: 180 (21%)<br />Quests: 60 (6%)<br />Events:
+      40 (4%)<br />Mail: 20 (2%)<br />Adventure: 10 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -1206,7 +1206,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1233,6 +1233,79 @@
         <tr>
           <td>Level</td>
           <td>20</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Ganyu</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>67</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>5 x Shimenawa's Reminiscence<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Amos' Bow</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1331,7 +1404,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Proto.png"
         />
       </p>
     </td>
@@ -1376,15 +1449,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Amos' Bow</td>
+          <td>Prototype Crescent</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>40</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2727,7 +2800,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Proto.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
         />
       </p>
     </td>
@@ -2769,15 +2842,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Prototype Crescent</td>
+          <td>Hunter's Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -3191,7 +3264,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -3727,6 +3800,79 @@
         <tr>
           <td>Level</td>
           <td>50</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>4</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Kaveh</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaveh.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Sacrificial Greatsword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
         </tr>
         <tr>
           <td>Refinement</td>
