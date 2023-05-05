@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>424</td>
+    <td>425</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>305</td>
+    <td>306</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>776</td>
+    <td>777</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -242,7 +242,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>62.2%</td>
+          <td>62.3%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>474</td>
+    <td>476</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -334,17 +334,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>900 (rate -86)</td>
+    <td>965 (rate -85)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>753829 (rate -86)</td>
+    <td>822704 (rate -85)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 590 (66%)<br />Daily Activity: 180 (21%)<br />Quests: 60 (6%)<br />Events:
-      40 (4%)<br />Mail: 20 (2%)<br />Adventure: 10 (1%)<br />Spiral Abyss: 0
+      Other: 590 (62%)<br />Daily Activity: 240 (25%)<br />Quests: 60 (6%)<br />Events:
+      40 (4%)<br />Mail: 20 (2%)<br />Adventure: 15 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
