@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>425</td>
+    <td>426</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>307</td>
+    <td>309</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>777</td>
+    <td>778</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>566</td>
+    <td>567</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -242,7 +242,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>62.3%</td>
+          <td>62.4%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>476</td>
+    <td>482</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -334,17 +334,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1085 (rate -84)</td>
+    <td>1157 (rate -83)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>945643 (rate -83)</td>
+    <td>1043711 (rate -81)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 590 (55%)<br />Daily Activity: 360 (34%)<br />Quests: 60 (6%)<br />Events:
-      40 (3%)<br />Mail: 20 (1%)<br />Adventure: 15 (1%)<br />Spiral Abyss: 0
+      Other: 590 (51%)<br />Daily Activity: 420 (37%)<br />Quests: 60 (6%)<br />Events:
+      40 (3%)<br />Adventure: 27 (2%)<br />Mail: 20 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -981,7 +981,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1087,6 +1087,79 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Ganyu</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>71</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>5 x Shimenawa's Reminiscence<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Amos' Bow</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -1233,79 +1306,6 @@
         <tr>
           <td>Level</td>
           <td>20</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Ganyu</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>5 x Shimenawa's Reminiscence<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Amos' Bow</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1692,6 +1692,79 @@
     </td>
   </tr>
 </table>
+<h3>Diluc</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>1 x Emblem of Severed Fate<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Prototype Archaic</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>2</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Barbara</h3>
 <table>
   <tr>
@@ -1833,79 +1906,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Diluc</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Pyro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>50</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>1 x Emblem of Severed Fate<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Prototype Archaic</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>40</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>2</td>
         </tr>
       </table>
     </td>
@@ -3479,7 +3479,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Constellation</td>
