@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>314</td>
+    <td>315</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>86</td>
+    <td>87</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -334,18 +334,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1820 (rate -73)</td>
+    <td>2395 (rate -65)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1553714 (rate -73)</td>
+    <td>1790749 (rate -69)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 808 (45%)<br />Daily Activity: 720 (40%)<br />Adventure: 122
-      (7%)<br />Quests: 90 (4%)<br />Events: 40 (2%)<br />Mail: 40 (2%)<br />Spiral
-      Abyss: 0 (0%)<br />
+      Other: 1018 (43%)<br />Daily Activity: 780 (33%)<br />Mail: 340 (15%)<br />Adventure:
+      127 (5%)<br />Quests: 90 (3%)<br />Events: 40 (1%)<br />Spiral Abyss: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
