@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>316</td>
+    <td>317</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -283,67 +283,20 @@
     <td>1</td>
   </tr>
 </table>
-<h2>Spiral Abyss</h2>
-<table>
-  <tr>
-    <td>Season</td>
-    <td>68</td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>Total Wins</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td>7-3</td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td>16</td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td></td>
-  </tr>
-</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2455 (rate -64)</td>
+    <td>2515 (rate -63)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1849400 (rate -68)</td>
+    <td>1899110 (rate -67)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 1018 (42%)<br />Daily Activity: 840 (35%)<br />Mail: 340 (14%)<br />Adventure:
+      Other: 1018 (41%)<br />Daily Activity: 900 (36%)<br />Mail: 340 (14%)<br />Adventure:
       127 (5%)<br />Quests: 90 (3%)<br />Events: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
