@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>322</td>
+    <td>323</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -296,8 +296,8 @@
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1140 (42%)<br />Other: 1018 (37%)<br />Mail: 360 (13%)<br />Adventure:
-      127 (4%)<br />Quests: 90 (3%)<br />Events: 40 (1%)<br />Spiral Abyss: 0
+      Daily Activity: 1140 (42%)<br />Events: 990 (36%)<br />Mail: 360 (13%)<br />Adventure:
+      127 (4%)<br />Quests: 90 (3%)<br />Other: 68 (2%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
