@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>435</td>
+    <td>436</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>331</td>
+    <td>332</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>498</td>
+    <td>500</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -287,18 +287,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4643 (rate -32)</td>
+    <td>250 (rate -94)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3174156 (rate -45)</td>
+    <td>212325 (rate -93)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1660 (36%)<br />Daily Activity: 1560 (34%)<br />Mail: 1020
-      (22%)<br />Adventure: 164 (4%)<br />Other: 149 (3%)<br />Quests: 90
-      (1%)<br />Spiral Abyss: 0 (0%)<br />
+      Events: 210 (84%)<br />Adventure: 20 (8%)<br />Daily Activity: 20 (8%)<br />Quests:
+      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -3870,7 +3869,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -3943,7 +3942,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>
