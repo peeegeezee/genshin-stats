@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>338</td>
+    <td>339</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>784</td>
+    <td>785</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>569</td>
+    <td>570</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -254,7 +254,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>80.7%</td>
+          <td>81.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -287,17 +287,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>540 (rate -88)</td>
+    <td>702 (rate -85)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>422545 (rate -86)</td>
+    <td>536462 (rate -83)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 210 (39%)<br />Daily Activity: 210 (39%)<br />Other: 80 (15%)<br />Adventure:
-      20 (4%)<br />Mail: 20 (3%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Events: 310 (45%)<br />Daily Activity: 270 (39%)<br />Other: 80 (11%)<br />Adventure:
+      22 (3%)<br />Mail: 20 (2%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -893,7 +893,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -934,7 +934,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2223,7 +2223,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
