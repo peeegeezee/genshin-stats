@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -35,11 +35,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>341</td>
+    <td>342</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>51</td>
+    <td>52</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -287,17 +287,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>702 (rate -85)</td>
+    <td>862 (rate -81)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>542462 (rate -83)</td>
+    <td>619870 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 310 (45%)<br />Daily Activity: 270 (39%)<br />Other: 80 (11%)<br />Adventure:
-      22 (3%)<br />Mail: 20 (2%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Events: 390 (46%)<br />Daily Activity: 330 (39%)<br />Other: 80 (9%)<br />Mail:
+      40 (4%)<br />Adventure: 22 (2%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -3943,7 +3943,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
